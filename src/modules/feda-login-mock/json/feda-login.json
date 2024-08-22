@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "id": "15475-P",
+            "usuario": "15475",
+            "tipoUsuario": "P",
+            "username": "PDC",
+            "rol": "ROL_REPRESENTANTE",
+            "nombreApellido": "GAMAN ARGENTINA S.R.L. ASESORES DE SEGUROS",
+            "agenciaCodigoToken": 3,
+            "agencia": {
+                "codigo": 3,
+                "nombre": "BUENOS AIRES",
+                "perfilada": false
+            },
+            "estructuraOrganizativa": {
+                "organizadorCodigo": "15475",
+                "representanteCodigo": "15475",
+                "directo": true
+            },
+            "filtrosPropios": [
+                {
+                    "id": 1323,
+                    "nombre": "Administración y Automotores",
+                    "usuarioCodigo": "15475",
+                    "favorito": false,
+                    "filtros": [
+                        {
+                            "filtro": "idArea",
+                            "valores": [
+                                {
+                                    "codigo": "200",
+                                    "nombre": "Administración"
+                                }
+                            ]
+                        },
+                        {
+                            "filtro": "idTrades",
+                            "valores": [
+                                {
+                                    "codigo": "4",
+                                    "nombre": "4 - AUTOMOTORES"
+                                }
+                            ]
+                        }
+                    ],
+                    "esCompartido": false,
+                    "ordenamiento": []
+                }
+            ],
+            "perfiles": [],
+            "perfilAreas": []
+        }
+    ]
+}

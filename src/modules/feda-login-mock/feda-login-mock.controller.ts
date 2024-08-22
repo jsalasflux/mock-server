@@ -34,16 +34,16 @@ import {
           throw 'Error interno';
         }
   
-        // await this.lowdbService.initDatabase(
-        //   './src/modules/feda-mock/json/feda-data.json',
-        // );
+        await this.lowdbService.initDatabase(
+          './src/modules/feda-login-mock/json/feda-login.json',
+        );
 
-        // const user = await this.lowdbService.find(
-        //   { id: "123456" },
-        //   'users',
-        // );
+        const user = await this.lowdbService.find(
+          { id: "15475-P" },
+          'users',
+        );
   
-        return res.status(HttpStatus.OK).json({});
+        return res.status(HttpStatus.OK).json(user);
       } catch (error) {
         return res.status(406).json({
           codigoResultado: '99',
