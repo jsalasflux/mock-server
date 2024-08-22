@@ -1,0 +1,34 @@
+{
+  "sfa-usuario": [
+    {
+      "cuil": "20000000001",
+      "sfaDisponible": {
+        "codigo": "OTP_SMS",
+        "bloqueado": false,
+        "favorito": true
+      },
+      "tieneSFAViejo": true,
+      "habilitarEnrolamiento": true
+    },
+    {
+      "cuil": "20000000028",
+      "sfaDisponible": {
+        "codigo": "OTP_EMAIL",
+        "bloqueado": false,
+        "favorito": true
+      },
+      "tieneSFAViejo": true,
+      "habilitarEnrolamiento": true
+    },
+    {
+      "cuil": "20000000036",
+      "sfaDisponible": {
+        "codigo": "OTP_SOFT_TOKEN",
+        "bloqueado": false,
+        "favorito": true
+      },
+      "tieneSFAViejo": false,
+      "habilitarEnrolamiento": true
+    }
+  ]
+}

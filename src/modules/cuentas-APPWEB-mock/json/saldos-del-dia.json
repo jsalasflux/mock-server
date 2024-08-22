@@ -1,0 +1,358 @@
+{
+  "saldosDelDia": [
+    {
+      "cuit": "30000000015",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "cuentas": [
+        {
+          "cuenta": {
+            "referencia": "Cuenta principal",
+            "nroCuenta": "001123859400",
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorros",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta proveedores",
+            "nroCuenta": "0003212313",
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dólares",
+                "simbolo": "u$s"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": null
+        },
+        {
+          "cuenta": {
+            "referencia": "Cuenta secundaria",
+            "nroCuenta": "0021312211",
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            }
+          },
+          "saldoApertura": 10000,
+          "acuerdo": 150
+        }
+      ]
+    }
+  ]
+}

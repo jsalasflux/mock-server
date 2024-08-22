@@ -1,0 +1,249 @@
+{
+  "datosCbuCuentaServices": [
+    {
+      "cbu": "0723456789234567891234",
+      "alias": "JUAN.PEREZ",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "0001231245323426",
+          "titulares": [
+            {
+              "nombreApellido": "Juan Pérez",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009993"
+            },
+            {
+              "nombreApellido": "Leandro Rovira",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009991"
+            }
+          ]
+        },
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dolares",
+              "simbolo": "u$s"
+            }
+          },
+          "nroCuenta": "0001231245323426",
+          "titulares": [
+            {
+              "nombreApellido": "Juan Godoy",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cbu": "0723456789234567891235",
+      "alias": "A.CS.SANTIAGO.SILVA",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "0001231245323423",
+          "titulares": [
+            {
+              "nombreApellido": "Santiago Silva",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009993"
+            },
+            {
+              "nombreApellido": "Leandro Rovira",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009991"
+            }
+          ]
+        },
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dolares",
+              "simbolo": "u$s"
+            }
+          },
+          "nroCuenta": "0001231245323423",
+          "titulares": [
+            {
+              "nombreApellido": "Juan Godoy",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cbu": "0723456789234567891236",
+      "alias": "A.CS.MAURE.GODOY",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "0001231245323424",
+          "titulares": [
+            {
+              "nombreApellido": "Lorena Maure",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009993"
+            },
+            {
+              "nombreApellido": "Leandro Rovira",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009991"
+            }
+          ]
+        },
+        {
+          "nombreBancoEntidad": "Santander Rio",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dolares",
+              "simbolo": "u$s"
+            }
+          },
+          "nroCuenta": "0001231245323424",
+          "titulares": [
+            {
+              "nombreApellido": "Juan Godoy",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cbu": "0290000000000000000001",
+      "alias": "BRIAN.ROMERO",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Banco Ciudad",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "0001231245323427",
+          "titulares": [
+            {
+              "nombreApellido": "Brian Romero",
+              "tipoClave": "CUIL",
+              "numeroClave": "27325025676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cbu": "0001234567890123456789",
+      "alias": "BRIAN.ROMERO.VIRTUAL",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Cuenta Virtual",
+          "tipoCuenta": {
+            "id": "8",
+            "descripcion": "Cuenta Virtual Única",
+            "descripcionCorta": "CVU $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "005352345234523",
+          "titulares": [
+            {
+              "nombreApellido": "Brian Romero",
+              "tipoClave": "CUIL",
+              "numeroClave": "27325025676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cbu": "0293456789234567891234",
+      "alias": "A.CS.JUAN.PEREZ",
+      "datosCuentas": [
+        {
+          "nombreBancoEntidad": "Banco Ciudad",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "pesos",
+              "simbolo": "$"
+            }
+          },
+          "nroCuenta": "0001231245323428",
+          "titulares": [
+            {
+              "nombreApellido": "Juan Informado Pérez",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009993"
+            },
+            {
+              "nombreApellido": "Pedro Gomez",
+              "tipoClave": "CUIL",
+              "numeroClave": "24000009994"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

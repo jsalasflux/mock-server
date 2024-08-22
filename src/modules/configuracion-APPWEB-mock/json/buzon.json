@@ -1,0 +1,220 @@
+{
+  "buzon": [
+    {
+      "archivosBuzonId": 1,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 2,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 3,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 4,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 5,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 6,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 7,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 8,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 9,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 10,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 11,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 12,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 13,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 14,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 15,
+      "tipo": "Movimientos conformados",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 16,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 17,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "PROCESADO_ERROR",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    },
+    {
+      "archivosBuzonId": 18,
+      "tipo": "Saldos actuales",
+      "fechaHora": "16/11/2021 12:30",
+      "disponibleHasta": "18/11/2021",
+      "archivoUrl": "https://ima.com",
+      "estado": "DESCARGADO",
+      "parametrosJson": [
+        { "clave": "Tipo de cuenta", "valor": "Cuenta crédito" },
+        { "clave": "N° de cuenta", "valor": "1234567890" }
+      ]
+    }
+  ]
+}

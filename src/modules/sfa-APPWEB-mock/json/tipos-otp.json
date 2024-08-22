@@ -1,0 +1,14 @@
+{
+  "tiposOTP": [
+    {
+      "tipo": "OTP_SMS",
+      "sfaToken": "Aee4-y0-50y",
+      "destino": "011******99"
+    },
+    {
+      "tipo": "OTP_EMAIL",
+      "sfaToken": "Aee4-y0-50y",
+      "destino": "s*****l@mail.com.ar"
+    }
+  ]
+}

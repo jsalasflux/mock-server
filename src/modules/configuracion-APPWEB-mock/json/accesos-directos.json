@@ -1,0 +1,94 @@
+{
+  "accesosDirectos": [
+    {
+      "cuil": "20000000001",
+      "accesos": [
+        {
+          "nombre": "Transferencias",
+          "alias": "TRANSFERENCIAS",
+          "descripcion": "Fácil y seguro."
+        },
+        {
+          "nombre": "Cheques",
+          "alias": "CHEQUES_TRANSF",
+          "descripcion": "Gestioná tus cheques"
+        },
+        {
+          "nombre": "Pago de servicios",
+          "alias": "IMP_SERV",
+          "descripcion": "Pagá impuestos y servicios"
+        },
+        {
+          "nombre": "Servicios AFIP",
+          "alias": "AFIP",
+          "descripcion": "Realizá tus consultas AFIP"
+        },
+        {
+          "nombre": "DEBIN",
+          "alias": "DEBIN",
+          "descripcion": "Cobros y pagos inmediatos"
+        }
+      ]
+    },
+    {
+      "cuil": "20000000028",
+      "accesos": [
+        {
+          "nombre": "Transferencias",
+          "alias": "TRANSFERENCIAS",
+          "descripcion": "Fácil y seguro."
+        },
+        {
+          "nombre": "Cheques",
+          "alias": "CHEQUES_TRANSF",
+          "descripcion": "Gestioná tus cheques"
+        },
+        {
+          "nombre": "Pago de servicios",
+          "alias": "IMP_SERV",
+          "descripcion": "Pagá impuestos y servicios"
+        },
+        {
+          "nombre": "Servicios AFIP",
+          "alias": "AFIP",
+          "descripcion": "Realizá tus consultas AFIP"
+        },
+        {
+          "nombre": "DEBIN",
+          "alias": "DEBIN",
+          "descripcion": "Cobros y pagos inmediatos"
+        }
+      ]
+    },
+    {
+      "cuil": "20000000036",
+      "accesos": [
+        {
+          "nombre": "Transferencias",
+          "alias": "TRANSFERENCIAS",
+          "descripcion": "Fácil y seguro."
+        },
+        {
+          "nombre": "Cheques",
+          "alias": "CHEQUES_TRANSF",
+          "descripcion": "Gestioná tus cheques"
+        },
+        {
+          "nombre": "Pago de servicios",
+          "alias": "IMP_SERV",
+          "descripcion": "Pagá impuestos y servicios"
+        },
+        {
+          "nombre": "Servicios AFIP",
+          "alias": "AFIP",
+          "descripcion": "Realizá tus consultas AFIP"
+        },
+        {
+          "nombre": "DEBIN",
+          "alias": "DEBIN",
+          "descripcion": "Cobros y pagos inmediatos"
+        }
+      ]
+    }
+  ]
+}

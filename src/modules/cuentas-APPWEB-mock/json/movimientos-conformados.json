@@ -1,0 +1,5206 @@
+{
+  "movimientosConformados": [
+    {
+      "cuit": "30000000015",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-18",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-19",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-09",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-15",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-07",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-01",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-19",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-15",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-09",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-26",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-19",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-25",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-18",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-09",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-07",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-19",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-15",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-13",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-11",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-07",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-02-21",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-08",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-15",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-24",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-16",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-17",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-04",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-02",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-03",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-19",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-07",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-03",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-14",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-18",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-06",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-04",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-31",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-29",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-01",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-13",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-16",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-03",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-26",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-01",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-17",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-20",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-01",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-04",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-20",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-06",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-31",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-29",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-02-28",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-02-22",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-21",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-25",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-15",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-28",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-25",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-12",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-16",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-13",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-02-28",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-20",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-02-22",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-02-24",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-22",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-12",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-29",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-29",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-17",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-05",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-01",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-18",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-09",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-19",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-24",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-02",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-17",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-02-24",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-02-26",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-22",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-10",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-02-27",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-10",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-18",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-02-27",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-02-23",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-11",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-19",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-04",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-04",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-06",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-15",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-04",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-25",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-27",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-27",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-17",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-05",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-30",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-28",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-21",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-02",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-24",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "nroCuenta": "001123859400",
+      "datos": [
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-20",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-05-04",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-16",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-12",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-11",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-04",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-09",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-30",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-05-20",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-28",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-04-02",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-04",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-05-09",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-07",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-04-29",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-31",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-03-01",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "432,22",
+          "fecha": "2022-03-17",
+          "concepto": "Haberes",
+          "saldo": "1.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-04-08",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "260,00",
+          "fecha": "2022-02-23",
+          "concepto": "Alquileres",
+          "saldo": "82.000,00",
+          "tipoMovimiento": "C",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        },
+        {
+          "importe": "-15000,00",
+          "fecha": "2022-03-11",
+          "concepto": "Varios",
+          "saldo": "200.000,00",
+          "tipoMovimiento": "D",
+          "nroComprobante": "200010234708",
+          "registroID": "53245dfg4",
+          "detailFields": [
+            {
+              "titulo": "Fecha valor",
+              "valor": "22/03/2021",
+              "orden": 2
+            },
+            {
+              "titulo": "Cuenta débito",
+              "valor": "CC $ 00850004733170",
+              "orden": 4
+            },
+            {
+              "titulo": "Descripción",
+              "valor": "Transferencia",
+              "orden": 6
+            },
+            {
+              "titulo": "CUIT cuenta débito",
+              "valor": "30-000000001-5",
+              "orden": 5
+            },
+            {
+              "titulo": "Monto",
+              "valor": "$ -16.436,00",
+              "orden": 3
+            },
+            {
+              "titulo": "Fecha",
+              "valor": "2021-03-21",
+              "orden": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

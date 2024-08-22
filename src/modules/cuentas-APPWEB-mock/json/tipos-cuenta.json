@@ -1,0 +1,74 @@
+{
+  "tiposCuenta": [
+    {
+      "id": "1",
+      "descripcion": "Caja de Ahorro",
+      "descripcionCorta": "CA $",
+      "moneda": {
+        "id": 0,
+        "descripcion": "Pesos",
+        "simbolo": "$"
+      }
+    },
+    {
+      "id": "2",
+      "descripcion": "Caja de Ahorro Dólares",
+      "descripcionCorta": "CA u$s",
+      "moneda": {
+        "id": 1,
+        "descripcion": "Dólares",
+        "simbolo": "u$s"
+      }
+    },
+    {
+      "id": "3",
+      "descripcion": "Cuenta Corriente",
+      "descripcionCorta": "CC $",
+      "moneda": {
+        "id": 0,
+        "descripcion": "Pesos",
+        "simbolo": "$"
+      }
+    },
+    {
+      "id": "4",
+      "descripcion": "Cuenta Corriente Dólares",
+      "descripcionCorta": "CC u$s",
+      "moneda": {
+        "id": 1,
+        "descripcion": "Dólares",
+        "simbolo": "u$s"
+      }
+    },
+    {
+      "id": "6",
+      "descripcion": "Especial Persona Jurídica $",
+      "descripcionCorta": "E.P.J. $",
+      "moneda": {
+        "id": 0,
+        "descripcion": "Pesos",
+        "simbolo": "$"
+      }
+    },
+    {
+      "id": "7",
+      "descripcion": "Especial Persona Jurídica u$s",
+      "descripcionCorta": "E.P.J. u$s",
+      "moneda": {
+        "id": 1,
+        "descripcion": "Dólares",
+        "simbolo": "u$s"
+      }
+    },
+    {
+      "id": "8",
+      "descripcion": "Cuenta Virtual Única",
+      "descripcionCorta": "CVU $",
+      "moneda": {
+        "id": 0,
+        "descripcion": "Pesos",
+        "simbolo": "$"
+      }
+    }
+  ]
+}

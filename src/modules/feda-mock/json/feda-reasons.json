@@ -1,0 +1,100 @@
+{
+    "reasons": [
+        {
+            "id": 1,
+            "tiempoSLA": 24,
+            "nombre": "010-Dictámenes"
+        },
+        {
+            "id": 2,
+            "tiempoSLA": 24,
+            "nombre": "Solicitud de CX"
+        },
+        {
+            "id": 3,
+            "tiempoSLA": 48,
+            "nombre": "Presupuesto de CX"
+        },
+        {
+            "id": 4,
+            "tiempoSLA": 48,
+            "nombre": "Autorizaciones"
+        },
+        {
+            "id": 5,
+            "tiempoSLA": 48,
+            "nombre": "Estudios"
+        },
+        {
+            "id": 6,
+            "tiempoSLA": 48,
+            "nombre": "Evoluciones"
+        },
+        {
+            "id": 7,
+            "tiempoSLA": 24,
+            "nombre": "Alta médica"
+        },
+        {
+            "id": 8,
+            "tiempoSLA": 48,
+            "nombre": "Solicitud de turno"
+        },
+        {
+            "id": 9,
+            "tiempoSLA": 24,
+            "nombre": "CRM Traslados"
+        },
+        {
+            "id": 10,
+            "tiempoSLA": 48,
+            "nombre": "CRM General"
+        },
+        {
+            "id": 11,
+            "tiempoSLA": 48,
+            "nombre": "Médico de grupo"
+        },
+        {
+            "id": 12,
+            "tiempoSLA": 24,
+            "nombre": "Telegrama"
+        },
+        {
+            "id": 13,
+            "tiempoSLA": 24,
+            "nombre": "Requerimiento SRT"
+        },
+        {
+            "id": 14,
+            "tiempoSLA": 48,
+            "nombre": "Relevamiento investigación"
+        },
+        {
+            "id": 15,
+            "tiempoSLA": 72,
+            "nombre": "Reintegro"
+        },
+        {
+            "id": 16,
+            "tiempoSLA": 24,
+            "nombre": "Óbito"
+        },
+        {
+            "id": 17,
+            "tiempoSLA": 72,
+            "nombre": "Informativo"
+        },
+        {
+            "id": 18,
+            "tiempoSLA": 48,
+            "nombre": "Internos"
+        },
+        {
+            "id": 19,
+            "tiempoSLA": 48,
+            "nombre": "No categorizado"
+        }
+    ]
+}
+

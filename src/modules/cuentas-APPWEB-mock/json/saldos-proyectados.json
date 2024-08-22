@@ -1,0 +1,1714 @@
+{
+  "saldosProyectados": [
+    {
+      "cuit": "30000000015",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "cuentas": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "001123859499",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859401",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859402",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859403",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859404",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859405",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859406",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859407",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859408",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "hoy": 36000,
+          "a24": 45000.75,
+          "a48": 100000
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "hoy": 1222,
+          "a24": 98631.75,
+          "a48": 120987.34
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "hoy": 15000,
+          "a24": 9992,
+          "a48": 72100.12
+        }
+      ]
+    }
+  ]
+}

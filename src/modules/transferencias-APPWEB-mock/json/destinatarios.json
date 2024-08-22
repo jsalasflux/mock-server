@@ -1,0 +1,626 @@
+{
+  "destinatarios": [
+    {
+      "destinatario": "Brian Romero",
+      "bancoId": "029",
+      "banco": "Banco Ciudad",
+      "cbu": "0291208811100094739820",
+      "alias": "A.BRIAN.ROMERO",
+      "referencia": "Proveedor Clubes CARP",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "brian.romero@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000343242345234",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Brian Romero"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Juan Perez",
+      "bancoId": "011",
+      "banco": "Banco Nacion",
+      "cbu": "0113784611100090955872",
+      "alias": "A.JUAN.PEREZ",
+      "referencia": "Proveedor Leche",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "juan.perez@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000234523452354",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Juan Perez"
+        }
+      ]
+    },
+    {
+      "destinatario": "Lucas Caminacielos",
+      "bancoId": "014",
+      "banco": "Banco Provincia",
+      "cbu": "0148957011100051504347",
+      "alias": "A.LUCAS.CAMINACIELOS",
+      "referencia": "",
+      "estado": "Pendiente",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000272346252346",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Lucas Caminacielos"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        }
+      ]
+    },
+    {
+      "destinatario": "Esteban Trabajos",
+      "bancoId": "044",
+      "banco": "Banco Hipotecario",
+      "cbu": "0445538811100070228262",
+      "alias": "A.ESTEBAN.TRABAJOS",
+      "referencia": null,
+      "estado": "Pendiente",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": null,
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "0006457345634563",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Esteban Trabajos"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Miguel Burbuja",
+      "bancoId": "247",
+      "banco": "Banco Roela",
+      "cbu": "2474993811100069512149",
+      "alias": "A.MIGUEL.BURBUJA",
+      "referencia": "Proveedor musica",
+      "estado": "Eliminada",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "email": "miguel.burbuja@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000245673451326",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Miguel Burbuja"
+        }
+      ]
+    },
+    {
+      "destinatario": "Bruno Marte",
+      "bancoId": "319",
+      "banco": "Banco CMF",
+      "cbu": "3195687211100078193177",
+      "alias": "A.BRUNO.MARTE",
+      "referencia": "Proveedor musica",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "2",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "email": "bruno.marte@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "0004573425423523",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Bruno Marte"
+        }
+      ]
+    },
+    {
+      "destinatario": "Rogelio Aguas",
+      "bancoId": "029",
+      "banco": "Banco Ciudad",
+      "cbu": "0290277411100074081020",
+      "alias": "A.ROGELIO.AGUAS",
+      "referencia": "Proveedor musica",
+      "estado": "Rechazada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "rogelio.aguas@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "0006324377354236",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Rogelio Aguas"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Jose Gonzalez",
+      "bancoId": "029",
+      "banco": "Banco Ciudad",
+      "cbu": "0291208811100094739829",
+      "alias": "A.JOSE.GONZALEZ",
+      "referencia": "Proveedor Pan",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "jose.gonzalez@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000653521462312436",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Jose Gonzalez"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Luis Suarez",
+      "bancoId": "029",
+      "banco": "Banco Ciudad",
+      "cbu": "0291208811100094019820",
+      "alias": "A.LUIS.SUAREZ",
+      "referencia": "Proveedor Clubes River Plate",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "luis.suarez@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "0005743324235",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Luis Suarez"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Brian Roma",
+      "bancoId": "029",
+      "cbu": "0299999999999999999999",
+      "alias": "A.BRIAN.ROMA",
+      "referencia": "Desarrollo",
+      "estado": "Activa",
+      "email": "b.roma@gmail.com",
+      "banco": "Banco Ciudad",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001243243643462",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Brian Roma"
+        }
+      ]
+    },
+    {
+      "destinatario": "Maximiliano Diaz",
+      "bancoId": "072",
+      "cbu": "0729999999999999999999",
+      "alias": "A.MAXIMILIANO.DIAZ",
+      "referencia": "Cuenta bimonetaria",
+      "estado": "Activa",
+      "email": "maximiliano.diaz@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "pesos",
+          "simbolo": "$"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "00043435216243644",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Maximiliano Diaz"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Brian Roma"
+        }
+      ]
+    },
+    {
+      "destinatario": "Maximiliano Diaz",
+      "bancoId": "072",
+      "cbu": "0729999999999999999999",
+      "alias": "A.MAXIMILIANO.DIAZ",
+      "referencia": "Cuenta bimonetaria",
+      "estado": "Pendiente",
+      "email": "maximiliano.diaz@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "00043435216243644",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Maximiliano Diaz"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Brian Roma"
+        }
+      ]
+    },
+    {
+      "destinatario": "Santiago Silva",
+      "bancoId": "072",
+      "cbu": "0723456789234567891235",
+      "alias": "A.CS.SANTIAGO.SILVA",
+      "referencia": "Cuenta bimonetaria",
+      "estado": "Pendiente",
+      "email": "santiago.silva@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001231245323423",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Santiago Silva"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Brian Roma"
+        }
+      ]
+    },
+    {
+      "destinatario": "Juan Godoy",
+      "bancoId": "072",
+      "cbu": "0723456789234567891236",
+      "alias": "A.CS.MAURE.GODOY",
+      "referencia": "Cuenta bimonetaria",
+      "estado": "Pendiente",
+      "email": "juan.godoy@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001231245323424",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Juan Godoy"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Brian Roma"
+        }
+      ]
+    },
+    {
+      "destinatario": "Marcelo Delgado",
+      "bancoId": "072",
+      "cbu": "0721111111111111111111",
+      "alias": "A.MARCELO.DELGADO",
+      "referencia": "Cuenta santander unimonetaria",
+      "estado": "Activa",
+      "email": "marcelo.delgado@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001231245323433",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000013",
+          "nombreApellido": "Marcelo Delgado"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000014",
+          "nombreApellido": "Mirta Delgado"
+        }
+      ]
+    },
+    {
+      "destinatario": "Juan Informado Perez",
+      "bancoId": "029",
+      "cbu": "0293456789234567891234",
+      "alias": "A.CS.JUAN.PEREZ",
+      "referencia": "Cuenta informada",
+      "estado": "Pendiente",
+      "email": "juan.perez@gmail.com",
+      "banco": "Banco Ciudad",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001231245323425",
+      "titulares": [
+        {
+          "nombreApellido": "Juan Informado Pérez",
+          "tipoClave": "CUIL",
+          "numeroClave": "24000009993"
+        },
+        {
+          "nombreApellido": "Pedro Gomez",
+          "tipoClave": "CUIL",
+          "numeroClave": "24000009994"
+        }
+      ]
+    },
+    {
+      "destinatario": "Bilbo Bolzon",
+      "bancoId": "029",
+      "banco": "Banco Ciudad",
+      "cbu": "0295705211100000763319",
+      "alias": "A.BILBO.BOLZON",
+      "referencia": "Proveedor anillos",
+      "estado": "Activa",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "email": "bilbo.bolzon@gmail.com",
+      "fechaAdhesion": "8/04/2021",
+      "numeroCuenta": "000324523452345",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000015",
+          "nombreApellido": "Bilbo Bolzon"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000025",
+          "nombreApellido": "Juan Roman Riquelme"
+        },
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000035",
+          "nombreApellido": "Claudio Caniggia"
+        }
+      ]
+    },
+    {
+      "destinatario": "Lorena Maure",
+      "bancoId": "072",
+      "cbu": "0723456789234567891236",
+      "alias": "A.CS.MAURE.GODOY",
+      "referencia": "Cuenta bimonetaria",
+      "estado": "Activa",
+      "email": "lorena.maure@gmail.com",
+      "banco": "Banco Santander Rio S.A.",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "pesos",
+          "simbolo": "$"
+        }
+      },
+      "fechaAdhesion": "10/08/2021",
+      "numeroCuenta": "0001231245323424",
+      "titulares": [
+        {
+          "tipoClave": "CUIL",
+          "numeroClave": "20000000010",
+          "nombreApellido": "Lorena Maure"
+        },
+        {
+          "nombreApellido": "Leandro Rovira",
+          "tipoClave": "CUIL",
+          "numeroClave": "24000009991"
+        }
+      ]
+    }
+  ]
+}

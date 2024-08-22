@@ -1,0 +1,414 @@
+{
+  "cuentasPorCuit": [
+    {
+      "cuit": "30000000015",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 12000,
+          "cbu": "0723456789234567891234",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": false,
+          "limite": 140000,
+          "cbu": "0723456789234567891234",
+          "tipoCuenta": {
+            "id": "2",
+            "descripcion": "Caja de Ahorros Dólares ",
+            "descripcionCorta": "CA u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000028"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 160000,
+          "cbu": "0723456789234567891234",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000028"],
+          "enviadores": ["20000000028"]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 200000,
+          "cbu": "0723456789234567891235",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000001", "20000000028"]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 100000,
+          "cbu": "0723456789234567891236",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": true,
+          "limite": 110000,
+          "cbu": "0723456789234567891236",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente Dólares",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000001", "20000000028"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 120000,
+          "cbu": "0723456789234567891236",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001", "20000000028"],
+          "enviadores": ["20000000001", "20000000028"]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 100000,
+          "cbu": "0290000000000000000001",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": true,
+          "limite": 110000,
+          "cbu": "0290000000000000000001",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente Dólares",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 120000,
+          "cbu": "0290000000000000000001",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 100000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": true,
+          "limite": 110000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente Dólares",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 120000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "datos": [
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 140000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": true,
+          "limite": 150000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente Dólares",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 160000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta principal",
+          "nroCuenta": "001123859400",
+          "puedeTransferir": true,
+          "limite": 170000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "1",
+            "descripcion": "Caja de Ahorros",
+            "descripcionCorta": "CA $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": "Cuenta proveedores",
+          "nroCuenta": "0003212313",
+          "puedeTransferir": true,
+          "limite": 180000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "4",
+            "descripcion": "Cuenta Corriente Dólares",
+            "descripcionCorta": "CC u$s",
+            "moneda": {
+              "id": 1,
+              "descripcion": "Dólares",
+              "simbolo": "u$s"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 190000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        },
+        {
+          "referencia": null,
+          "nroCuenta": "0021312211",
+          "puedeTransferir": true,
+          "limite": 200000,
+          "cbu": "0293456789234567891234",
+          "tipoCuenta": {
+            "id": "3",
+            "descripcion": "Cuenta Corriente",
+            "descripcionCorta": "CC $",
+            "moneda": {
+              "id": 0,
+              "descripcion": "Pesos",
+              "simbolo": "$"
+            }
+          },
+          "firmantes": ["20000000001"],
+          "enviadores": ["20000000001"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "usuarios": [
+    {
+      "jwtToken": "PLAZOSFIJOS3",
+      "jwtTokenRefresh": "PLAZOSFIJOS3REFRESH",
+      "timeExpireSeconds": 120,
+      "nombre": "Emanuel",
+      "apellido": "Ginóbili",
+      "alias": "plazosfijos3",
+      "cuil": "20000000001",
+      "puedeModificarDatosPersonales": true,
+      "puedeAprobarDestinatarios": true,
+      "detalleDatosCompletos": {
+        "nombre": "Emanuel David",
+        "apellido": "Ginóbili",
+        "cuil": "20000000001",
+        "avatar": null,
+        "celular": "",
+        "prefijoCelular": "",
+        "email": "m*****@mail.com.ar",
+        "usuario": "plazosfijos3",
+        "datosContactoPendientes": false
+      },
+      "empresas": [
+        { "cuit": "30000000015" },
+        { "cuit": "30000000023" },
+        { "cuit": "30000000031" },
+        { "cuit": "30000000058" },
+        { "cuit": "30000000066" },
+        { "cuit": "30000000074" }
+      ]
+    },
+    {
+      "jwtToken": "TRESEMPRESAS",
+      "jwtTokenRefresh": "TRESEMPRESASREFRESH",
+      "timeExpireSeconds": 120,
+      "nombre": "Juan",
+      "Apellido": "Tres Empresas",
+      "alias": "tresempresas",
+      "cuil": "20000000028",
+      "puedeModificarDatosPersonales": true,
+      "puedeAprobarDestinatarios": true,
+      "detalleDatosCompletos": {
+        "nombre": "Juan Manuel",
+        "apellido": "Tres Empresas",
+        "cuil": "20000000028",
+        "avatar": null,
+        "celular": "******10",
+        "prefijoCelular": "011",
+        "email": "j**********@mail.com.ar",
+        "usuario": "tresempresas",
+        "datosContactoPendientes": true
+      },
+      "empresas": [
+        { "cuit": "30000000015" },
+        { "cuit": "30000000023" },
+        { "cuit": "30000000031" }
+      ]
+    },
+    {
+      "jwtToken": "UNAEMPRESA",
+      "jwtTokenRefresh": "UNAEMPRESAREFRESH",
+      "timeExpireSeconds": 120,
+      "nombre": "Claudia",
+      "apellido": "Una Empresa",
+      "alias": "unaempresa",
+      "cuil": "20000000036",
+      "puedeModificarDatosPersonales": true,
+      "puedeAprobarDestinatarios": true,
+      "detalleDatosCompletos": {
+        "nombre": "Claudia Fernanda",
+        "apellido": "Una Empresa",
+        "cuil": "20000000036",
+        "avatar": null,
+        "celular": "******10",
+        "prefijoCelular": "1234",
+        "email": "c******@mail.com.ar",
+        "usuario": "unaempresa",
+        "datosContactoPendientes": false
+      },
+      "empresas": [{ "cuit": "30000000015" }]
+    }
+  ]
+}

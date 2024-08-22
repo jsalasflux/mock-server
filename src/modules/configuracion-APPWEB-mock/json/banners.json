@@ -1,0 +1,24 @@
+{
+  "banners": [
+    {
+      "path": "/banners/images/1.jpg",
+      "redireccion": ""
+    },
+    {
+      "path": "/banners/images/2.jpg",
+      "redireccion": ""
+    },
+    {
+      "path": "/banners/images/3.jpg",
+      "redireccion": ""
+    },
+    {
+      "path": "/banners/images/4.jpg",
+      "redireccion": ""
+    },
+    {
+      "path": "/banners/images/5.jpg",
+      "redireccion": ""
+    }
+  ]
+}

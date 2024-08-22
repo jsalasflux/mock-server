@@ -1,0 +1,28 @@
+{
+  "config-usuario": [
+    {
+      "cuit": "30123456785",
+      "apruebaDestinatario": true
+    },
+    {
+      "cuit": "30000000015",
+      "apruebaDestinatario": true
+    },
+    {
+      "cuit": "30987654325",
+      "apruebaDestinatario": false
+    },
+    {
+      "cuit": "30563728465",
+      "apruebaDestinatario": true
+    },
+    {
+      "cuit": "30845137560",
+      "apruebaDestinatario": true
+    },
+    {
+      "cuit": "30854736297",
+      "apruebaDestinatario": false
+    }
+  ]
+}

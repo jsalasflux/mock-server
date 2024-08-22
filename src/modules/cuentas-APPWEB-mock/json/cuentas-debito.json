@@ -1,0 +1,46 @@
+{
+  "cuentasDebito": [
+    {
+      "referencia": "habilitado",
+      "nroCuenta": "001123859400",
+      "habilitadaTransfOnline": true,
+      "tipoCuenta": {
+        "id": "1",
+        "tipoCuentaTandem": "1",
+        "descripcion": "prueba",
+        "aceptaCBU": "OK",
+        "descripcionAbreviada": "prb",
+        "descripcionCorta": "Cuenta habilitada",
+        "moneda": {
+          "id": 0,
+          "descripcion": "pesos",
+          "codMonedaTandem": "1",
+          "simbolo": "$"
+        },
+        "permitePrincipal": "OK",
+        "tipoPersona": "Tipo 1"
+      }
+    },
+    {
+      "referencia": "no habilitado",
+      "nroCuenta": "001123859400",
+      "habilitadaTransfOnline": false,
+      "tipoCuenta": {
+        "id": "1",
+        "tipoCuentaTandem": "1",
+        "descripcion": "prueba",
+        "aceptaCBU": "OK",
+        "descripcionAbreviada": "prb",
+        "descripcionCorta": "Cuenta no habilitada",
+        "moneda": {
+          "id": 0,
+          "descripcion": "pesos",
+          "codMonedaTandem": "1",
+          "simbolo": "$"
+        },
+        "permitePrincipal": "OK",
+        "tipoPersona": "Tipo 1"
+      }
+    }
+  ]
+}

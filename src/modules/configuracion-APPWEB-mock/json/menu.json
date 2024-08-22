@@ -1,0 +1,439 @@
+{
+  "menuProducto": [
+    {
+      "producto": "30",
+      "menu": [
+        {
+          "alias": "CONSULTAS",
+          "nombre": "Consultas",
+          "submenu": [
+            {
+              "alias": "MOVIMIENTOS",
+              "nombre": "Movimientos",
+              "submenu": [
+                {
+                  "alias": "ULTIMOS_MOVS",
+                  "nombre": "Últimos movimientos",
+                  "submenu": []
+                },
+                {
+                  "alias": "PENDIENTES_MOVS",
+                  "nombre": "Pendientes",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "SALDOS",
+              "nombre": "Saldos",
+              "submenu": [
+                {
+                  "alias": "SALDOS_DEL_DIA",
+                  "nombre": "Del día",
+                  "submenu": []
+                },
+                {
+                  "alias": "SALDOS_HIST",
+                  "nombre": "Históricos",
+                  "submenu": []
+                },
+                {
+                  "alias": "SALDOS_PROY",
+                  "nombre": "Proyectados",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "CBU",
+              "nombre": "CBU",
+              "submenu": []
+            },
+            {
+              "alias": "EXTRACTOS",
+              "nombre": "Extractos",
+              "submenu": []
+            },
+            {
+              "alias": "FIRMANTES",
+              "nombre": "Firmantes",
+              "submenu": []
+            },
+            {
+              "alias": "LEASING",
+              "nombre": "Leasing",
+              "submenu": []
+            },
+            {
+              "alias": "PRESTAMOS",
+              "nombre": "Prestamos",
+              "submenu": []
+            },
+            {
+              "alias": "POSICION_CONSOLIDADA",
+              "nombre": "Posición consolidada",
+              "submenu": []
+            },
+            {
+              "alias": "CHEQUES",
+              "nombre": "Cheques",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "TRANSACCIONES",
+          "nombre": "Transacciones",
+          "submenu": [
+            {
+              "alias": "TRANSFERENCIAS",
+              "nombre": "Transferencias",
+              "submenu": [
+                {
+                  "alias": "TRANSFERIR",
+                  "nombre": "Transferir",
+                  "submenu": []
+                },
+                {
+                  "alias": "CONSULTAS_TRANSF",
+                  "nombre": "Consultas",
+                  "submenu": []
+                },
+                {
+                  "alias": "LIMITES_TRANSF",
+                  "nombre": "Limites",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "OPERACIONES_MASIVAS",
+              "nombre": "Operaciones masivas de transferencias",
+              "submenu": []
+            },
+            {
+              "alias": "LIMITES_DE_TRANSFERENCIAS",
+              "nombre": "Límites de transferencias",
+              "submenu": []
+            },
+
+            {
+              "alias": "PLAZOS_FIJOS",
+              "nombre": "Plazo fijo",
+              "submenu": []
+            },
+            {
+              "alias": "COMPRA_VENTA_DOLARES",
+              "nombre": "Compra/venta de dólares",
+              "submenu": []
+            },
+            {
+              "alias": "COBRANZAS",
+              "nombre": "Cobranzas",
+              "submenu": []
+            },
+            {
+              "alias": "CHEQUES_TRANSF",
+              "nombre": "Cheques",
+              "submenu": []
+            },
+            {
+              "alias": "ORDENES_EXTRACCION",
+              "nombre": "Ordenes de extracción",
+              "submenu": []
+            },
+            {
+              "alias": "PRESTAMOS_TRANSF",
+              "nombre": "Prestamos",
+              "submenu": []
+            },
+            {
+              "alias": "SOLICITUDES",
+              "nombre": "Solicitudes",
+              "submenu": []
+            },
+            {
+              "alias": "RECAUDACIONES",
+              "nombre": "Recaudaciones",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "PAGOS",
+          "nombre": "Pagos",
+          "submenu": [
+            {
+              "alias": "AFIP",
+              "nombre": "AFIP",
+              "submenu": []
+            },
+            {
+              "alias": "IMP_SERV",
+              "nombre": "Impuestos y servicios",
+              "submenu": []
+            },
+            {
+              "alias": "HABERES_PROVEEDORES",
+              "nombre": "Haberes y proveedores",
+              "submenu": []
+            },
+            {
+              "alias": "PLANTILLAS",
+              "nombre": "Plantillas",
+              "submenu": []
+            },
+            {
+              "alias": "DEUDAS",
+              "nombre": "Deudas",
+              "submenu": []
+            },
+            {
+              "alias": "DEBIN",
+              "nombre": "DEBIN",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "ADMIN_USUARIOS",
+          "nombre": "Administracion de usuarios",
+          "submenu": [
+            {
+              "alias": "TUS_DATOS",
+              "nombre": "Tus datos",
+              "submenu": []
+            },
+            {
+              "alias": "TAREAS_PENDIENTES",
+              "nombre": "Tareas pendientes",
+              "submenu": []
+            },
+            {
+              "alias": "REHABILITAR_USUARIOS",
+              "nombre": "Rehabilitar usuarios",
+              "submenu": []
+            },
+            {
+              "alias": "SEGUNDO_FACTOR",
+              "nombre": "Segundo factor",
+              "submenu": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "producto": "32",
+      "menu": [
+        {
+          "alias": "CONSULTAS",
+          "nombre": "Custom",
+          "submenu": [
+            {
+              "alias": "MOVIMIENTOS",
+              "nombre": "Movimientos",
+              "submenu": [
+                {
+                  "alias": "ULTIMOS_MOVS",
+                  "nombre": "Últimos movimientos",
+                  "submenu": []
+                },
+                {
+                  "alias": "PENDIENTES_MOVS",
+                  "nombre": "Pendientes",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "SALDOS",
+              "nombre": "Saldos",
+              "submenu": [
+                {
+                  "alias": "SALDOS_DEL_DIA",
+                  "nombre": "Del día",
+                  "submenu": []
+                },
+                {
+                  "alias": "SALDOS_HIST",
+                  "nombre": "Históricos",
+                  "submenu": []
+                },
+                {
+                  "alias": "SALDOS_PROY",
+                  "nombre": "Proyectados",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "CBU",
+              "nombre": "CBU",
+              "submenu": []
+            },
+            {
+              "alias": "EXTRACTOS",
+              "nombre": "Extractos",
+              "submenu": []
+            },
+            {
+              "alias": "FIRMANTES",
+              "nombre": "Firmantes",
+              "submenu": []
+            },
+            {
+              "alias": "LEASING",
+              "nombre": "Leasing",
+              "submenu": []
+            },
+            {
+              "alias": "PRESTAMOS",
+              "nombre": "Prestamos",
+              "submenu": []
+            },
+            {
+              "alias": "POSICION_CONSOLIDADA",
+              "nombre": "Posición consolidada",
+              "submenu": []
+            },
+            {
+              "alias": "CHEQUES",
+              "nombre": "Cheques",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "TRANSACCIONES",
+          "nombre": "Transacciones",
+          "submenu": [
+            {
+              "alias": "TRANSFERENCIAS",
+              "nombre": "Transferencias",
+              "submenu": [
+                {
+                  "alias": "TRANSFERIR",
+                  "nombre": "Transferir",
+                  "submenu": []
+                },
+                {
+                  "alias": "CONSULTAS_TRANSF",
+                  "nombre": "Consultas",
+                  "submenu": []
+                },
+                {
+                  "alias": "LIMITES_TRANSF",
+                  "nombre": "Limites",
+                  "submenu": []
+                }
+              ]
+            },
+            {
+              "alias": "PLAZOS_FIJOS",
+              "nombre": "Plazo fijo",
+              "submenu": []
+            },
+            {
+              "alias": "COMPRA_VENTA_DOLARES",
+              "nombre": "Compra/venta de dólares",
+              "submenu": []
+            },
+            {
+              "alias": "COBRANZAS",
+              "nombre": "Cobranzas",
+              "submenu": []
+            },
+            {
+              "alias": "CHEQUES_TRANSF",
+              "nombre": "Cheques",
+              "submenu": []
+            },
+            {
+              "alias": "ORDENES_EXTRACCION",
+              "nombre": "Ordenes de extracción",
+              "submenu": []
+            },
+            {
+              "alias": "PRESTAMOS_TRANSF",
+              "nombre": "Prestamos",
+              "submenu": []
+            },
+            {
+              "alias": "SOLICITUDES",
+              "nombre": "Solicitudes",
+              "submenu": []
+            },
+            {
+              "alias": "RECAUDACIONES",
+              "nombre": "Recaudaciones",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "PAGOS",
+          "nombre": "Pagos",
+          "submenu": [
+            {
+              "alias": "AFIP",
+              "nombre": "AFIP",
+              "submenu": []
+            },
+            {
+              "alias": "IMP_SERV",
+              "nombre": "Impuestos y servicios",
+              "submenu": []
+            },
+            {
+              "alias": "HABERES_PROVEEDORES",
+              "nombre": "Haberes y proveedores",
+              "submenu": []
+            },
+            {
+              "alias": "PLANTILLAS",
+              "nombre": "Plantillas",
+              "submenu": []
+            },
+            {
+              "alias": "DEUDAS",
+              "nombre": "Deudas",
+              "submenu": []
+            },
+            {
+              "alias": "DEBIN",
+              "nombre": "DEBIN",
+              "submenu": []
+            }
+          ]
+        },
+        {
+          "alias": "ADMIN_USUARIOS",
+          "nombre": "Administracion de usuarios",
+          "submenu": [
+            {
+              "alias": "TUS_DATOS",
+              "nombre": "Tus datos",
+              "submenu": []
+            },
+            {
+              "alias": "TAREAS_PENDIENTES",
+              "nombre": "Tareas pendientes",
+              "submenu": []
+            },
+            {
+              "alias": "REHABILITAR_USUARIOS",
+              "nombre": "Rehabilitar usuarios",
+              "submenu": []
+            },
+            {
+              "alias": "SEGUNDO_FACTOR",
+              "nombre": "Segundo factor",
+              "submenu": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "sfa-conf-trx": [
+    {
+      "transaccion": "RECUPERO_USUARIO",
+      "usaClave": false,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "RECUPERO_CLAVE",
+      "usaClave": false,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "APROBAR_CTAS_CRED",
+      "usaClave": true,
+      "usaOTP": false,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "ELIMINAR_CTAS_CRED",
+      "usaClave": true,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "CAMBIO_EMAIL",
+      "usaClave": true,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "CAMBIO_CELULAR",
+      "usaClave": true,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "CAMBIO_CLAVE",
+      "usaClave": true,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "CAMBIO_USUARIO",
+      "usaClave": true,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "CARGAR_TRANSFERENCIA",
+      "usaClave": false,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "FIRMAR_TRANSFERENCIA",
+      "usaClave": false,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "ENVIAR_TRANSFERENCIA",
+      "usaClave": false,
+      "usaOTP": true,
+      "habilitadoTRX": true
+    },
+    {
+      "transaccion": "ELIMINAR_TRANSFERENCIAS",
+      "usaClave": true,
+      "usaOTP": false,
+      "habilitadoTRX": true
+    }
+  ]
+}

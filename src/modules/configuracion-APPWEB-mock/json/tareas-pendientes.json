@@ -1,0 +1,310 @@
+{
+  "tareasPendientes": [
+    {
+      "idPendiente": 0,
+      "hayPendiente": true,
+      "titulo": "Pagos AFIP - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=0",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 1,
+      "hayPendiente": true,
+      "titulo": "Pagos AFIP - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=1",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 2,
+      "hayPendiente": true,
+      "titulo": "Pago de Impuestos y Servicios - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=2",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 3,
+      "hayPendiente": true,
+      "titulo": "Pago de Impuestos y Servicios - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=3",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 4,
+      "hayPendiente": true,
+      "titulo": "Pago a terceros - Pendiente de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=4",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 5,
+      "hayPendiente": true,
+      "titulo": "Pago de deudas - Envíos pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=5",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 6,
+      "hayPendiente": true,
+      "titulo": "Pago de deudas - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=6",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 7,
+      "hayPendiente": true,
+      "titulo": "Plazos Fijos - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=7",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 8,
+      "hayPendiente": true,
+      "titulo": "Plazos fijos - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=8",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 9,
+      "hayPendiente": true,
+      "titulo": "Transferencias programadas - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=9",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 10,
+      "hayPendiente": true,
+      "titulo": "Transferencias inmediatas - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=10",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 11,
+      "hayPendiente": true,
+      "titulo": "Transferencias inmediatas - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=11",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 12,
+      "hayPendiente": true,
+      "titulo": "CREDÍNes - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=12",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 13,
+      "hayPendiente": true,
+      "titulo": "CREDÍNes - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=13",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 14,
+      "hayPendiente": true,
+      "titulo": "DEBINes Pagador - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=14",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 15,
+      "hayPendiente": true,
+      "titulo": "DEBINes Pagador - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=15",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 16,
+      "hayPendiente": true,
+      "titulo": "Órdenes de extracción - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=16",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 17,
+      "hayPendiente": true,
+      "titulo": "Órdenes de extracción - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=17",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 18,
+      "hayPendiente": true,
+      "titulo": "Órdenes de extracción masiva - Pendientes de envío",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=18",
+      "codigo": "",
+      "tipoPendiente": "ENVIO"
+    },
+    {
+      "idPendiente": 19,
+      "hayPendiente": true,
+      "titulo": "Órdenes de extracción masiva - Pendientes de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=19",
+      "codigo": "",
+      "tipoPendiente": "FIRMA"
+    },
+    {
+      "idPendiente": 20,
+      "hayPendiente": true,
+      "titulo": "Cuentas Crédito - Pendientes de aprobación de firma",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=20",
+      "codigo": "",
+      "tipoPendiente": "APROBACION"
+    },
+    {
+      "idPendiente": 21,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Pendientes de admisión",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=21",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 22,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Repudiados",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=22",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 23,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Rechazados",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=23",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 24,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Aceptar devolución",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=24",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 25,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Cobrados",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=25",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 26,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Pagados",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=26",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 27,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Orden de no pagar",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=27",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 28,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Cesión por admitir",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=28",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 29,
+      "hayPendiente": true,
+      "titulo": "ECHEQ - Aval por admitir",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=29",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 30,
+      "hayPendiente": true,
+      "titulo": "Factura electrónica - Por admitir",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=30",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 31,
+      "hayPendiente": true,
+      "titulo": "Factura electrónica - Impaga",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=31",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 32,
+      "hayPendiente": true,
+      "titulo": "Factura electrónica - Pedido de devolución",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=32",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    },
+    {
+      "idPendiente": 33,
+      "hayPendiente": true,
+      "titulo": "Factura electrónica - Paga",
+      "descripcion": "",
+      "url": "https://www.google.com.ar?idx=33",
+      "codigo": "",
+      "tipoPendiente": "OTROS"
+    }
+  ]
+}

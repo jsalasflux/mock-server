@@ -1,0 +1,2308 @@
+{
+  "saldosHistoricos": [
+    {
+      "cuit": "30000000015",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-04-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-02"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-03-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-04-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-04-11"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-04-08"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-04-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-04-07"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-11"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-03-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-01"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-28"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-03-07"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-04-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-04-06"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-04-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-03-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-04-02"
+        }
+      ],
+      "fecha": "2021-06-13"
+    },
+    {
+      "cuit": "30000000023",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-04-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-10"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-04-20"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-02-22"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-04-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-03-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-03-22"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-03-29"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-04-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-05-17"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-05-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-16"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-04-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-02-20"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-02-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-04-15"
+        }
+      ],
+      "fecha": "2021-07-31"
+    },
+    {
+      "cuit": "30000000031",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-03-14"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-05-05"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-05-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-04-02"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-02-22"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-03-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-04-15"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-04-01"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-03-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-22"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-05-14"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-04-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-03-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-05-17"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-04-17"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-03-12"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-04-03"
+        }
+      ],
+      "fecha": "2021-06-16"
+    },
+    {
+      "cuit": "30000000058",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-05-07"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-11"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-05-08"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-05-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-05-17"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-14"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-04-01"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-04-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-03-30"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-05-11"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-20"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-03-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-05-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-04-28"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-02-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-28"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-05-18"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-05-06"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-04-08"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-03-05"
+        }
+      ],
+      "fecha": "2021-05-25"
+    },
+    {
+      "cuit": "30000000066",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-05-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-04-20"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-04-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-04-26"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-05-04"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-03-03"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-03-06"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-05-18"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-04-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-03-26"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-23"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-14"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-03-02"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-03-17"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-04-07"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-02-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-03-14"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-05-08"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-04-22"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-03-03"
+        }
+      ],
+      "fecha": "2021-08-12"
+    },
+    {
+      "cuit": "30000000074",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 167451,
+          "fecha": "2022-02-28"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-05-12"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 1029.55,
+          "fecha": "2022-03-05"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 5403.55,
+          "fecha": "2022-02-23"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 76590.04,
+          "fecha": "2022-03-24"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta proveedores"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-02-28"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 25400.64,
+          "fecha": "2022-02-23"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 12900.9,
+          "fecha": "2022-04-19"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 35690,
+          "fecha": "2022-02-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 88999.54,
+          "fecha": "2022-02-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-21"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-12"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-02-27"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 90250.44,
+          "fecha": "2022-04-08"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 77250.44,
+          "fecha": "2022-04-05"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "001123859400",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 60250.44,
+          "fecha": "2022-03-30"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "2",
+              "descripcion": "Caja de Ahorro Dolares",
+              "descripcionCorta": "CA u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "0003212313",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 13209.55,
+          "fecha": "2022-05-09"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "0021312211",
+            "referencia": "Cuenta caja"
+          },
+          "saldo": 622700.11,
+          "fecha": "2022-04-10"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "4",
+              "descripcion": "Cuenta Corriente Dolares",
+              "descripcionCorta": "CC u$s",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Dolares",
+                "simbolo": "u$s"
+              }
+            },
+            "nroCuenta": "00021031998",
+            "referencia": "Cuenta sueldos"
+          },
+          "saldo": 40012.98,
+          "fecha": "2022-03-25"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "1",
+              "descripcion": "Caja de Ahorro",
+              "descripcionCorta": "CA $",
+              "moneda": {
+                "id": 0,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00026071999",
+            "referencia": "Cuenta principal"
+          },
+          "saldo": 137000,
+          "fecha": "2022-03-07"
+        },
+        {
+          "cuenta": {
+            "tipoCuenta": {
+              "id": "3",
+              "descripcion": "Cuenta Corriente",
+              "descripcionCorta": "CC $",
+              "moneda": {
+                "id": 1,
+                "descripcion": "Pesos",
+                "simbolo": "$"
+              }
+            },
+            "nroCuenta": "00009102000",
+            "referencia": "Cuenta ventas"
+          },
+          "saldo": 47650.15,
+          "fecha": "2022-03-11"
+        }
+      ],
+      "fecha": "2021-06-01"
+    }
+  ]
+}

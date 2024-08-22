@@ -1,0 +1,160 @@
+{
+  "saldosActuales": [
+    {
+      "cuit": "30000000015",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": 333
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": null
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": 333
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": 333
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": 333
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "saldos": [
+        {
+          "cuenta": {
+            "tipoCuentaId": "1",
+            "numeroCuenta": "001123859400"
+          },
+          "saldo": 158000
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "4",
+            "numeroCuenta": "0003212313"
+          },
+          "saldo": 233
+        },
+        {
+          "cuenta": {
+            "tipoCuentaId": "3",
+            "numeroCuenta": "0021312211"
+          },
+          "saldo": 333
+        }
+      ]
+    }
+  ]
+}

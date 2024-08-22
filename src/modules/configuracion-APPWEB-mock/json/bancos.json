@@ -1,0 +1,36 @@
+{
+  "bancos": [
+    {
+      "id": 1,
+      "nombre": "Santander Rio",
+      "estado": "A",
+      "codigoBCRA": "00072"
+    },
+    { "id": 2, "nombre": "BBVA", "estado": "A", "codigoBCRA": "00017" },
+    { "id": 3, "nombre": "ICBC", "estado": "A", "codigoBCRA": "00015" },
+    {
+      "id": 4,
+      "nombre": "Banco Ciudad",
+      "estado": "A",
+      "codigoBCRA": "00029"
+    },
+    {
+      "id": 5,
+      "nombre": "Banco Nación",
+      "estado": "A",
+      "codigoBCRA": "00011"
+    },
+    {
+      "id": 6,
+      "nombre": "Banco Galicia",
+      "estado": "A",
+      "codigoBCRA": "00007"
+    },
+    {
+      "id": 7,
+      "nombre": "Banco Provincia",
+      "estado": "A",
+      "codigoBCRA": "00014"
+    }
+  ]
+}

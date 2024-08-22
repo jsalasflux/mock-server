@@ -1,0 +1,40 @@
+{
+  "empresas": [
+    {
+      "razonSocial": "Gonzalez y Asociados",
+      "cuit": "30000000015",
+      "fiid": "29",
+      "producto": "30"
+    },
+    {
+      "razonSocial": "Conglomerados SRL",
+      "cuit": "30000000023",
+      "fiid": "29",
+      "producto": "30"
+    },
+    {
+      "razonSocial": "Verga Hnos",
+      "cuit": "30000000031",
+      "fiid": "29",
+      "producto": "32"
+    },
+    {
+      "razonSocial": "Turimar SRL",
+      "cuit": "30000000058",
+      "fiid": "29",
+      "producto": "30"
+    },
+    {
+      "razonSocial": "Havana SA",
+      "cuit": "30000000066",
+      "fiid": "29",
+      "producto": "30"
+    },
+    {
+      "razonSocial": "La mejor compañia SRL",
+      "cuit": "30000000074",
+      "fiid": "29",
+      "producto": "30"
+    }
+  ]
+}

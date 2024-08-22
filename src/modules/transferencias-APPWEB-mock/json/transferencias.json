@@ -1,0 +1,1267 @@
+{
+  "transferencias": [
+    {
+      "nroTransferencia": 1000006,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-23",
+      "fechaImputacion": null,
+      "importe": 6000,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000001"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000100,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-18",
+      "fechaImputacion": null,
+      "importe": 400,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1010006,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-04-25",
+      "fechaImputacion": null,
+      "importe": 7000,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000028", "20000000001"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000101,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-15",
+      "fechaImputacion": null,
+      "importe": 500,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000028"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000102,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-03",
+      "fechaImputacion": null,
+      "importe": 700,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000028"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000103,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-04-15",
+      "fechaImputacion": null,
+      "importe": 800,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000028"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000104,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-21",
+      "fechaImputacion": null,
+      "importe": 900,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000028"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000105,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-22",
+      "fechaImputacion": null,
+      "importe": 1000,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000106,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-04-01",
+      "fechaImputacion": null,
+      "importe": 1100,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000107,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-26",
+      "fechaImputacion": null,
+      "importe": 1200,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000108,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-04-04",
+      "fechaImputacion": null,
+      "importe": 1300,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000109,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-18",
+      "fechaImputacion": null,
+      "importe": 1400,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000110,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-24",
+      "fechaImputacion": null,
+      "importe": 1500,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000111,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-04-17",
+      "fechaImputacion": null,
+      "importe": 1700,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000112,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-25",
+      "fechaImputacion": null,
+      "importe": 1800,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000007,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-30",
+      "fechaImputacion": null,
+      "importe": 3000,
+      "concepto": "SIS - Siniestros de seguros",
+      "motivo": "Motivo SIS",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": ["20000000001"],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000004,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-08",
+      "fechaImputacion": null,
+      "importe": 7000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000005,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-03-08",
+      "fechaImputacion": null,
+      "importe": 13000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 100001,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-11",
+      "fechaImputacion": null,
+      "importe": 450,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente",
+      "estadoCode": "PE",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "2",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "0003212313",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000002,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Brian Romero",
+      "fechaCarga": "2022-03-23",
+      "fechaImputacion": null,
+      "importe": 2000,
+      "concepto": "APC - Aportes de capital",
+      "motivo": "Motivo APC",
+      "referencia": "Motivo EXP",
+      "estadoName": "Enviado",
+      "estadoCode": "EN",
+      "cbuDestinatario": "0291208811100094739820",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000343242345234",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000003,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Brian Romero",
+      "fechaCarga": "2022-05-24",
+      "fechaImputacion": null,
+      "importe": 6000,
+      "concepto": "ROP - Reintegros de obras sociales y prepagas",
+      "motivo": "Motivo ROP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente",
+      "estadoCode": "PE",
+      "cbuDestinatario": "0291208811100094739820",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000343242345234",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000008,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "fechaCarga": "2022-05-27",
+      "fechaImputacion": null,
+      "importe": 7000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0113784611100090955872",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000009,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bilbo Bolzon",
+      "fechaCarga": "2022-04-18",
+      "fechaImputacion": null,
+      "importe": 1000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0295705211100000763319",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000324523452345",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000010,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bilbo Bolzon",
+      "fechaCarga": "2022-03-11",
+      "fechaImputacion": null,
+      "importe": 2000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Enviado",
+      "estadoCode": "EN",
+      "cbuDestinatario": "0295705211100000763319",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000324523452345",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000011,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bilbo Bolzon",
+      "fechaCarga": "2022-05-06",
+      "fechaImputacion": null,
+      "importe": 3000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0295705211100000763319",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000324523452345",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000012,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bilbo Bolzon",
+      "fechaCarga": "2022-04-04",
+      "fechaImputacion": null,
+      "importe": 4000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente",
+      "estadoCode": "PE",
+      "cbuDestinatario": "0295705211100000763319",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000324523452345",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000017,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bruno Marte",
+      "cbuDestinatario": "3195687211100078193177",
+      "fechaCarga": "2022-05-13",
+      "importe": 1.2,
+      "concepto": "HAB - Haberes",
+      "fechaImputacion": "2021-12-08",
+      "referencia": "BRH",
+      "estadoCode": "FP",
+      "estadoName": "Pendiente de firma",
+      "tipoCuenta": {
+        "id": "2",
+        "descripcion": "Caja de Ahorro Dólares",
+        "descripcionCorta": "CA u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dólares",
+          "simbolo": "u$s"
+        }
+      },
+      "numeroCuentaCredito": "0004573425423523",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000018,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Maximiliano Diaz",
+      "cbuDestinatario": "0729999999999999999999",
+      "fechaCarga": "2022-05-15",
+      "importe": 2,
+      "concepto": "VAR - Varios",
+      "fechaImputacion": "2021-11-28",
+      "referencia": "EXP",
+      "estadoCode": "FC",
+      "estadoName": "Firmada",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "00043435216243644",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000019,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Lorena Maure",
+      "cbuDestinatario": "0723456789234567891236",
+      "fechaCarga": "2022-05-18",
+      "importe": 3.4,
+      "concepto": "ALQ - Alquileres",
+      "fechaImputacion": "2021-11-28",
+      "referencia": "EXP",
+      "estadoCode": "PA",
+      "estadoName": "Pendiente de acreditación",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "0001231245323424",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000020,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Marcelo Delgado",
+      "cbuDestinatario": "0721111111111111111111",
+      "fechaCarga": "2022-05-02",
+      "importe": 4,
+      "concepto": "SEG - Seguros",
+      "fechaImputacion": "2021-12-30",
+      "referencia": "EXP",
+      "estadoCode": "AC",
+      "estadoName": "Acreditada",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "0001231245323433",
+      "cuitCuentaCredito": "20000000013",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000021,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Jose Gonzalez",
+      "cbuDestinatario": "0291208811100094739829",
+      "fechaCarga": "2022-04-15",
+      "importe": 5.8,
+      "concepto": "OIN - Operaciones Inmobiliarias",
+      "fechaImputacion": "2021-12-28",
+      "referencia": "EXP",
+      "estadoCode": "RE",
+      "estadoName": "rechazada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000653521462312436",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000022,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Lucas Caminacielos",
+      "cbuDestinatario": "0148957011100051504347",
+      "fechaCarga": "2022-03-24",
+      "importe": 6,
+      "concepto": "BRN - Bienes Registrables Habitualistas",
+      "fechaImputacion": "2021-12-20",
+      "referencia": "EXP",
+      "estadoCode": "FP",
+      "estadoName": "Pendiente de firma",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000272346252346",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000023,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Jose Gonzalez",
+      "cbuDestinatario": "0291208811100094739829",
+      "fechaCarga": "2022-05-25",
+      "importe": 7.2,
+      "concepto": "APC - Aportes de Capital",
+      "fechaImputacion": "2021-12-19",
+      "referencia": "EXP",
+      "estadoCode": "FP",
+      "estadoName": "Pendiente de firma",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000653521462312436",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": ["20000000001"],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000024,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Jose Gonzalez",
+      "cbuDestinatario": "0291208811100094739829",
+      "fechaCarga": "2022-04-28",
+      "importe": 8,
+      "concepto": "EXP - Expensas",
+      "fechaImputacion": "2022-01-16",
+      "referencia": "VAR",
+      "estadoCode": "FC",
+      "estadoName": "Firmada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000653521462312436",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000025,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Brian Romero",
+      "cbuDestinatario": "0291208811100094739820",
+      "fechaCarga": "2022-03-20",
+      "importe": 9.3,
+      "concepto": "HAB - Haberes",
+      "fechaImputacion": "2022-01-16",
+      "referencia": "OIH",
+      "estadoCode": "PA",
+      "estadoName": "Pendiente de acreditación",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000343242345234",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000026,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Brian Romero",
+      "cbuDestinatario": "0291208811100094739820",
+      "fechaCarga": "2022-04-18",
+      "importe": 10,
+      "concepto": "VAR - Varios",
+      "fechaImputacion": "2022-01-30",
+      "referencia": "ALQ",
+      "estadoCode": "AC",
+      "estadoName": "Acreditada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000343242345234",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000027,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Juan Perez",
+      "cbuDestinatario": "0113784611100090955872",
+      "fechaCarga": "2022-05-10",
+      "importe": 11.5,
+      "concepto": "ALQ - Alquileres",
+      "fechaImputacion": "2022-01-16",
+      "referencia": "OIH",
+      "estadoCode": "RE",
+      "estadoName": "Rechazada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000234523452354",
+      "cuitCuentaCredito": "20000000035",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000028,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Bilbo Bolzon",
+      "cbuDestinatario": "0295705211100000763319",
+      "fechaCarga": "2022-04-13",
+      "importe": 12,
+      "concepto": "SEG - Seguros",
+      "fechaImputacion": "2022-01-30",
+      "referencia": "ALQ",
+      "estadoCode": "FP",
+      "estadoName": "Pendiente de firma",
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000324523452345",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "nroTransferencia": 1000013,
+      "numeroCuentaDebito": "0003212313",
+      "tipoCuentaDebitoId": "2",
+      "nombreDestinatario": "Maximiliano Diaz",
+      "fechaCarga": "2022-04-23",
+      "fechaImputacion": null,
+      "importe": 9000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de firma",
+      "estadoCode": "FP",
+      "cbuDestinatario": "0729999999999999999999",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "numeroCuentaCredito": "00043435216243644",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000014,
+      "numeroCuentaDebito": "0003212313",
+      "tipoCuentaDebitoId": "2",
+      "nombreDestinatario": "Maximiliano Diaz",
+      "fechaCarga": "2022-05-29",
+      "fechaImputacion": null,
+      "importe": 10000,
+      "concepto": "EXP - Expensas",
+      "motivo": "Motivo EXP",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0729999999999999999999",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "numeroCuentaCredito": "00043435216243644",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000015,
+      "numeroCuentaDebito": "0003212313",
+      "tipoCuentaDebitoId": "2",
+      "nombreDestinatario": "Santiago Silva",
+      "fechaCarga": "2022-04-29",
+      "fechaImputacion": null,
+      "importe": 120400,
+      "concepto": "SEG - Seguro",
+      "motivo": "Motivo SEG",
+      "referencia": "Motivo EXP",
+      "estadoName": "Rechazada",
+      "estadoCode": "RE",
+      "cbuDestinatario": "0723456789234567891235",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "numeroCuentaCredito": "0001231245323423",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000016,
+      "numeroCuentaDebito": "0003212313",
+      "tipoCuentaDebitoId": "2",
+      "nombreDestinatario": "Santiago Silva",
+      "fechaCarga": "2022-03-10",
+      "fechaImputacion": null,
+      "importe": 120400,
+      "concepto": "SEG - Seguro",
+      "motivo": "Motivo SEG",
+      "referencia": "Motivo EXP",
+      "estadoName": "Pendiente",
+      "estadoCode": "PE",
+      "cbuDestinatario": "0723456789234567891235",
+      "tipoCuenta": {
+        "id": "4",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC u$s",
+        "moneda": {
+          "id": 1,
+          "descripcion": "Dolares",
+          "simbolo": "u$s"
+        }
+      },
+      "numeroCuentaCredito": "0001231245323423",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": [],
+      "tipo": "TON"
+    },
+    {
+      "nroTransferencia": 1000028,
+      "numeroCuentaDebito": "0003212313",
+      "tipoCuentaDebitoId": "2",
+      "nombreDestinatario": "Miguel Burbuja",
+      "cbuDestinatario": "2474993811100069512149",
+      "fechaCarga": "2022-04-23",
+      "importe": 12,
+      "concepto": "SEG - Seguros",
+      "fechaImputacion": "2021-01-01",
+      "referencia": "ALQ",
+      "estadoCode": "FC",
+      "estadoName": "Firmada",
+      "tipoCuenta": {
+        "id": "1",
+        "descripcion": "Caja de Ahorros",
+        "descripcionCorta": "CA $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "numeroCuentaCredito": "000245673451326",
+      "cuitCuentaCredito": "20000000015",
+      "firmas": [],
+      "tipo": "TOFF"
+    },
+    {
+      "tipoCuenta": {
+        "id": "3",
+        "descripcion": "Cuenta Corriente",
+        "descripcionCorta": "CC $",
+        "moneda": {
+          "id": 0,
+          "descripcion": "Pesos",
+          "simbolo": "$"
+        }
+      },
+      "nroTransferencia": 1644958113717,
+      "numeroCuentaDebito": "001123859400",
+      "tipoCuentaDebitoId": "1",
+      "nombreDestinatario": "Lorena Maure",
+      "fechaCarga": "2022-05-25",
+      "fechaImputacion": null,
+      "importe": 5656,
+      "concepto": "Varios",
+      "motivo": "Varios",
+      "referencia": "defi5",
+      "estadoName": "Pendiente de envío",
+      "estadoCode": "FC",
+      "cbuDestinatario": "0723456789234567891236",
+      "numeroCuentaCredito": "0001231245323424",
+      "cuitCuentaCredito": "20000000010",
+      "firmas": ["20000000001"],
+      "tipo": "TON"
+    }
+  ]
+}

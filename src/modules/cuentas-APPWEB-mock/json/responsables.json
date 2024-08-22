@@ -1,0 +1,40 @@
+{
+  "responsables": [
+    {
+      "nroCuenta": "123312321231",
+      "nombre": "Lionel Messi",
+      "telefono": "+54 13231212323132",
+      "email": "leomessi10@gmail.com"
+    },
+    {
+      "nroCuenta": "123312123213",
+      "nombre": "Kilian Mbappe",
+      "telefono": "+54 452342432243",
+      "email": "kmbappe@gmail.com"
+    },
+    {
+      "nroCuenta": "123312123555",
+      "nombre": "Pulga Rodriguez",
+      "telefono": "+54 452342432243",
+      "email": "pulagarodriguezcrack@gmail.com"
+    },
+    {
+      "nroCuenta": "123312123213",
+      "nombre": "Mauro Laspada",
+      "telefono": "+54 452342432243",
+      "email": "maurolaspadasadasdsdasdaasdsdacrackidologeniodistinto@gmail.com"
+    },
+    {
+      "nroCuenta": "123312123266",
+      "nombre": "Alejandro Delorte",
+      "telefono": "+54 452342432243",
+      "email": "flacodelorte@gmail.com"
+    },
+    {
+      "nroCuenta": "123312199277",
+      "nombre": "Lautaro Martinez",
+      "telefono": "+54 452342432243",
+      "email": "toromartinez@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "conceptosTOFF": [
+    {
+      "conceptoId": 1,
+      "codigo": "HAB",
+      "descripcion": "Haberes"
+    },
+    {
+      "conceptoId": 2,
+      "codigo": "VAR",
+      "descripcion": "Varios"
+    },
+    {
+      "conceptoId": 3,
+      "codigo": "ALQ",
+      "descripcion": "Alquileres"
+    },
+    {
+      "conceptoId": 6,
+      "codigo": "SEG",
+      "descripcion": "Seguros"
+    },
+    {
+      "conceptoId": 7,
+      "codigo": "OIN",
+      "descripcion": "Operaciones Inmobiliarias"
+    },
+    {
+      "conceptoId": 8,
+      "codigo": "BRN",
+      "descripcion": "Bienes Registrables Habitualistas"
+    },
+    {
+      "conceptoId": 9,
+      "codigo": "APC",
+      "descripcion": "Aportes de Capital"
+    },
+    {
+      "conceptoId": 10,
+      "codigo": "SEG",
+      "descripcion": "Seguro"
+    },
+    {
+      "conceptoId": 11,
+      "codigo": "EXP",
+      "descripcion": "Expensas"
+    }
+  ]
+}

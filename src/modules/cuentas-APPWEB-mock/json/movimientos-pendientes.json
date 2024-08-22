@@ -1,0 +1,840 @@
+{
+  "movimientosPendientes": [
+    {
+      "cuit": "30000000015",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-13",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-02-21",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-19",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-09",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-16",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-04",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-21",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-07",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-08",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-01",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-02",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-02",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-19",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-07",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-07",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-16",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-02-21",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-04",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-02-23",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-19",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    },
+    {
+      "cuit": "30000000023",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-11",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-09",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-19",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-12",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    },
+    {
+      "cuit": "30000000031",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-03",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-25",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-26",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-17",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    },
+    {
+      "cuit": "30000000058",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-26",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-28",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-08",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-26",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    },
+    {
+      "cuit": "30000000066",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-20",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-08",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-02-28",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-26",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    },
+    {
+      "cuit": "30000000074",
+      "cuentaNro": "001123859400",
+      "datos": [
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 1,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-06",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "D",
+          "monto": -10000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 2,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-05-05",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 9000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "130",
+          "concepto": "VARIOS"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 3,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-04-07",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 75000,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "131",
+          "concepto": "CHEQUE"
+        },
+        {
+          "archivo": "dsaasfd",
+          "cuentaNro": "000000000000149664",
+          "secuencia": 4,
+          "tipoCuenta": 1,
+          "moneda": {
+            "id": 0,
+            "descripcion": "Pesos",
+            "simbolo": "$"
+          },
+          "fechaMov": "2022-03-21",
+          "fechaValor": "2020-12-11",
+          "debitoCredito": "C",
+          "monto": 3500,
+          "fechaIngreso": "2020-12-11",
+          "codigoOperacion": null,
+          "codigoOperacionBanco": null,
+          "referencia": "132",
+          "concepto": "CHEQUE"
+        }
+      ]
+    }
+  ]
+}
