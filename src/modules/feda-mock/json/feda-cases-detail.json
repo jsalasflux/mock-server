@@ -8,12 +8,12 @@
             "usuGeneradorNombre": "Prestador",
             "usuGeneradorRol": "Prestador",
             "titulo": "Dictamen",
-            "descripcion": "org.hibernate.engine.jdbc.ClobProxy@7207f447",
+            "descripcion": "Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema. Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.",
             "usuPropietario": null,
             "usuPropietarioNombre": null,
             "usuPropietarioRol": null,
             "vencimientoSla": "2024-07-31 10:30",
-            "slaTimeCounter": "12:45",
+            "slaTimeCounter": "2:45",
             "estado": {
                 "id": 6,
                 "descripcion": "Expirado",
@@ -30,6 +30,9 @@
                 "tiempoSLA": null,
                 "nombre": "Consulta derivaciones"
             },
+            "tipo": "Solicitudes",
+            "subtipo1": "Solicitudes - sub1",
+            "subtipo2": "Solicitudes - sub2",
             "destinatarios": {
                 "principal": "pruebaa123323.opvr@gmail.com",
                 "conCopia": [],
