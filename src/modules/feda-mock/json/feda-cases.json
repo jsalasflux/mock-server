@@ -16,8 +16,8 @@
             "slaTimeCounter": "2:45",
             "estado": {
                 "id": 6,
-                "descripcion": "Expirado",
-                "nombre": "Expirado"
+                "descripcion": "Asignado",
+                "nombre": "Asignado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -55,8 +55,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 6,
-                "descripcion": "Expirado",
-                "nombre": "Expirado"
+                "descripcion": "Asignado",
+                "nombre": "Asignado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -94,8 +94,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Pendiente",
-                "nombre": "Pendiente"
+                "descripcion": "Sin asignar",
+                "nombre": "Sin asignar"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -133,8 +133,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Esperando Respuesta",
-                "nombre": "Esperando Respuesta"
+                "descripcion": "Finalizado",
+                "nombre": "Finalizado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -169,8 +169,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "En gestión",
-                "nombre": "En gestión"
+                "descripcion": "Finalizado",
+                "nombre": "Finalizado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -205,8 +205,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Anulado",
-                "nombre": "Anulado"
+                "descripcion": "Finalizado",
+                "nombre": "Finalizado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -241,8 +241,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Cerrado",
-                "nombre": "Cerrado"
+                "descripcion": "Asignado",
+                "nombre": "Asignado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -277,8 +277,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Reabierto",
-                "nombre": "Reabierto"
+                "descripcion": "Finalizado",
+                "nombre": "Finalizado"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
@@ -313,8 +313,8 @@
             "slaTimeCounter": "12:45",
             "estado": {
                 "id": 1,
-                "descripcion": "Pendiente",
-                "nombre": "Pendiente"
+                "descripcion": "Sin asignar",
+                "nombre": "Sin asignar"
             },
             "grupoCodigo": 2,
             "fechaModificacion": null,
