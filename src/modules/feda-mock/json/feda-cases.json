@@ -338,6 +338,132 @@
                     "copia2@example.com"
                 ]
             }
+        },
+        {
+            "id": 370,
+            "fechaAlta": null,
+            "nroCaso": "CAS-146-2024",
+            "usuGenerador": "24116",
+            "usuGeneradorNombre": "ZAISER MARISEL ROSANA",
+            "usuGeneradorRol": "ROL_PRODUCTOR",
+            "titulo": "CAS-146-2024 - 010-Dictámenes",
+            "descripcion": "PRUEBA DE EJEMPLO 6.",
+            "usuPropietario": null,
+            "usuPropietarioNombre": null,
+            "usuPropietarioRol": null,
+            "vencimientoSla": "2024-07-31 10:30",
+            "slaTimeCounter": "12:45",
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin asignar",
+                "nombre": "Sin asignar"
+            },
+            "grupoCodigo": 2,
+            "fechaModificacion": null,
+            "areaCodigo": null,
+            "emailContacto": null,
+            "emailReceptor": null,
+            "creacionAutomatica": false,
+            "motivo": {
+                "id": 1,
+                "tiempoSLA": null,
+                "nombre": "Consulta derivaciones"
+            },
+            "destinatarios": {
+                "principal": "principal@example.com",
+                "conCopia": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ],
+                "conCopiaOculta": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ]
+            }
+        },
+        {
+            "id": 371,
+            "fechaAlta": null,
+            "nroCaso": "CAS-146-2024",
+            "usuGenerador": "24116",
+            "usuGeneradorNombre": "ZAISER MARISEL ROSANA",
+            "usuGeneradorRol": "ROL_PRODUCTOR",
+            "titulo": "CAS-146-2024 - 010-Dictámenes",
+            "descripcion": "PRUEBA DE EJEMPLO 6.",
+            "usuPropietario": null,
+            "usuPropietarioNombre": null,
+            "usuPropietarioRol": null,
+            "vencimientoSla": "2024-07-31 10:30",
+            "slaTimeCounter": "12:45",
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin asignar",
+                "nombre": "Sin asignar"
+            },
+            "grupoCodigo": 2,
+            "fechaModificacion": null,
+            "areaCodigo": null,
+            "emailContacto": null,
+            "emailReceptor": null,
+            "creacionAutomatica": false,
+            "motivo": {
+                "id": 1,
+                "tiempoSLA": null,
+                "nombre": "Consulta derivaciones"
+            },
+            "destinatarios": {
+                "principal": "principal@example.com",
+                "conCopia": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ],
+                "conCopiaOculta": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ]
+            }
+        },
+        {
+            "id": 372,
+            "fechaAlta": null,
+            "nroCaso": "CAS-146-2024",
+            "usuGenerador": "24116",
+            "usuGeneradorNombre": "ZAISER MARISEL ROSANA",
+            "usuGeneradorRol": "ROL_PRODUCTOR",
+            "titulo": "CAS-146-2024 - 010-Dictámenes",
+            "descripcion": "PRUEBA DE EJEMPLO 6.",
+            "usuPropietario": null,
+            "usuPropietarioNombre": null,
+            "usuPropietarioRol": null,
+            "vencimientoSla": "2024-07-31 10:30",
+            "slaTimeCounter": "12:45",
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin asignar",
+                "nombre": "Sin asignar"
+            },
+            "grupoCodigo": 2,
+            "fechaModificacion": null,
+            "areaCodigo": null,
+            "emailContacto": null,
+            "emailReceptor": null,
+            "creacionAutomatica": false,
+            "motivo": {
+                "id": 1,
+                "tiempoSLA": null,
+                "nombre": "Consulta derivaciones"
+            },
+            "destinatarios": {
+                "principal": "principal@example.com",
+                "conCopia": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ],
+                "conCopiaOculta": [
+                    "copia1@example.com",
+                    "copia2@example.com"
+                ]
+            }
         }
     ]
 }

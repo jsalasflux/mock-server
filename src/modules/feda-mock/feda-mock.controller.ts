@@ -103,7 +103,7 @@ import {
   
         return res.status(HttpStatus.OK).json(cases);
       } catch (error) {
-        return res.status(406).json({
+        return res.status(404).json({
           codigoResultado: '99',
           descripcionResultado:
             'Error al obtener los casos para el usuario',
