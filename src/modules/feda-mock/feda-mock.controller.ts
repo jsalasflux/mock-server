@@ -140,5 +140,38 @@ import {
         });
       }
     }
+
+  @Post('/new-case')
+  async createNewCase(
+    @Headers() headers,
+    @Req() req,
+    @Res() res: Response,
+  ) {
+
+    
+    let typeResponse = 0;
+    
+    try {
+      if (typeResponse > 0) {
+        throw 'Error';
+      }
+      
+      const body = req.body;
+            
+      if(body?.subtipo2?.codigo.toString() === '81' ){
+        throw 'Error';
+      }
+
+      
+      return res.status(HttpStatus.OK).json({
+        codigoResultado: HttpStatus.OK
+      });
+    } catch (error) {
+      return res.status(406).json({
+        codigoResultado: '99',
+        descripcionResultado: 'Error al crear caso',
+      });
+    }
+  }
 }
   
