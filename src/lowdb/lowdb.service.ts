@@ -45,8 +45,8 @@ export class LowdbService {
   }
 
   async add(data: any, collctionName: string): Promise<any> {
-    const listData = await this.db.get(collctionName).value();
-    listData.push(data);
+    const listData:any[] = await this.db.get(collctionName).value();
+    listData.unshift(data);
     await this.db.set(collctionName, listData).write();
     return data;
   }

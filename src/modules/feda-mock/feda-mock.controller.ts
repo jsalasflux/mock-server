@@ -157,11 +157,58 @@ import {
       }
       
       const body = req.body;
-            
+
+      const newCase = {} as any;
+
       if(body?.subtipo2?.codigo.toString() === '81' ){
         throw 'Error';
       }
 
+      await this.lowdbService.initDatabase(
+        './src/modules/feda-mock/json/feda-cases.json',
+      );
+
+      newCase.id = 101;
+      newCase.fechaAlta = '2024-09-06';
+      newCase.nroCaso = 'CAS-14209-2024';
+      newCase.usuGeneradorNombre =  "Prestador";
+      newCase.usuGeneradorRol =  "Prestador";
+      newCase.titulo = body.titulo;
+      newCase.descripcion = "Si estas soluciones no resuelven el problema, puede haber un problema más profundo con el entorno o la configuración del sistema operativo. Considera revisar logs detallados o usar un depurador para identificar el origen del problema.";
+      newCase.usuPropietario = null;
+      newCase.usuPropietarioNombre = "Externo";
+      newCase.usuPropietarioEmail = "ambulancias@clinicas.com.ar";
+      newCase.usuPropietarioRol = null;
+      newCase.vencimientoSla = "2024-07-31 10:30";
+      newCase.slaTimeCounter = "2:45";
+      newCase.slaTimerStatus = "timer_down";
+      newCase.estado = {
+        id: 6,
+        descripcion: "Asignado",
+        nombre: "Asignado"
+      };
+      newCase.grupoCodigo= 2;
+      newCase.fechaModificacion= null;
+      newCase.areaCodigo= body.area.codigo;
+      newCase.emailContacto= "jose.garay@fluxit.com.ar";
+      newCase.emailReceptor= null;
+      newCase.creacionAutomatica= true;
+      newCase.motivo= {
+        id: body.motivoId,
+        tiempoSLA: null,
+        nombre: "Consulta derivaciones"
+      };
+      newCase.ultimoAnalista="",
+      newCase.tipo= body.tipo.nombre,
+      newCase.subtipo1= body.subtipo.nombre,
+      newCase.subtipo2= body.subtipo2.nombre,
+      newCase.destinatarios= {
+        principal: body.destinatarios.principal,
+        conCopia: [...body.destinatarios.conCopia],
+        conCopiaOculta: [...body.destinatarios.conCopiaOculta]
+      }
+
+      await this.lowdbService.add(newCase, 'cases');
       
       return res.status(HttpStatus.OK).json({
         codigoResultado: HttpStatus.OK
