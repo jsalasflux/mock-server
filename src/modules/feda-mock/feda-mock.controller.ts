@@ -185,8 +185,8 @@ import {
       newCase.slaTimerStatus = "timer_down";
       newCase.estado = {
         id: 6,
-        descripcion: "Asignado",
-        nombre: "Asignado"
+        descripcion: "Sin asignar",
+        nombre: "Sin asignar"
       };
       newCase.grupoCodigo= 2;
       newCase.fechaModificacion= null;
