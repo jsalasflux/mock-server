@@ -97,7 +97,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "32:45",
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 6,
@@ -139,7 +139,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "18:45",
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 1,
@@ -223,7 +223,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "11:45",
       "slaTimerStatus": "timer_up",
       "estado": {
         "id": 1,
@@ -265,7 +265,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "48:45",
       "slaTimerStatus": "timer_up",
       "estado": {
         "id": 1,
@@ -349,7 +349,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "21:45",
       "slaTimerStatus": "empty",
       "estado": {
         "id": 1,
@@ -391,7 +391,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "44:45",
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 1,
@@ -433,7 +433,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "37:45",
       "slaTimerStatus": "empty",
       "estado": {
         "id": 1,
@@ -475,7 +475,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "33:45",
       "slaTimerStatus": "timer_up",
       "estado": {
         "id": 1,
@@ -517,7 +517,7 @@
       "usuPropietarioEmail": "ambulancias@clinicas.com.ar",
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
-      "slaTimeCounter": "12:45",
+      "slaTimeCounter": "41:45",
       "slaTimerStatus": "empty",
       "estado": {
         "id": 1,
