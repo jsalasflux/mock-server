@@ -168,6 +168,7 @@ import {
         './src/modules/feda-mock/json/feda-cases.json',
       );
 
+      
       newCase.id = 101;
       newCase.fechaAlta = '2024-09-06';
       newCase.nroCaso = 'CAS-14209-2024';
@@ -204,10 +205,10 @@ import {
       newCase.subtipo2= body.subtipo2.nombre,
       newCase.destinatarios= {
         principal: body.destinatarios.principal,
-        conCopia: [...body.destinatarios.conCopia],
-        conCopiaOculta: [...body.destinatarios.conCopiaOculta]
+        conCopia: body.destinatarios.conCopia ? [...body.destinatarios.conCopia]:null,
+        conCopiaOculta: body.destinatarios.conCopiaOculta ? [...body.destinatarios.conCopiaOculta]:null
       }
-
+      
       await this.lowdbService.add(newCase, 'cases');
       
       return res.status(HttpStatus.OK).json({
