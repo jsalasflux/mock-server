@@ -192,7 +192,7 @@ import {
       newCase.areaCodigo= body.area.codigo;
       newCase.emailContacto= "jose.garay@fluxit.com.ar";
       newCase.emailReceptor= null;
-      newCase.creacionAutomatica= true;
+      newCase.creacionAutomatica= false;
       newCase.motivo= {
         id: body.motivoId,
         tiempoSLA: null,

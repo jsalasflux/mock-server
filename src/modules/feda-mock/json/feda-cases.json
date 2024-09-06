@@ -26,7 +26,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 7,
                 "tiempoSLA": null,
@@ -68,7 +68,7 @@
             "areaCodigo": null,
             "emailContacto": "ezequiel.humar@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -110,7 +110,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -152,7 +152,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -194,7 +194,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -236,7 +236,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -278,7 +278,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
@@ -320,7 +320,7 @@
             "areaCodigo": null,
             "emailContacto": "jose.garay@fluxit.com.ar",
             "emailReceptor": null,
-            "creacionAutomatica": true,
+            "creacionAutomatica": false,
             "motivo": {
                 "id": 1,
                 "tiempoSLA": null,
