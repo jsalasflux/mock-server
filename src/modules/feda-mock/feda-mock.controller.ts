@@ -141,6 +141,34 @@ import {
       }
     }
 
+  // Obtiene subtipos por canal
+  @Get('/subtypes-channel/:channel')
+  async getSubtiposPorCanal(@Headers() headers, @Res() res: Response) {
+    const typeResponse = 0;
+
+    try {
+      if (typeResponse > 0) {
+        throw 'Error interno';
+      }
+
+      await this.lowdbService.initDatabase(
+        './src/modules/feda-mock/json/feda-filtros.json',
+      );
+
+      const subtiposPorCanal = await this.lowdbService.findAll(
+        'subtiposPorCanal',
+      );
+
+      return res.status(HttpStatus.OK).json(subtiposPorCanal);
+    } catch (error) {
+      return res.status(404).json({
+        codigoResultado: '99',
+        descripcionResultado:
+          'Error al obtener los subtipos del canal',
+      });
+    }
+  }
+
   @Post('/new-case')
   async createNewCase(
     @Headers() headers,

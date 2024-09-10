@@ -1,0 +1,28 @@
+{
+    "subtiposPorCanal": [
+        {
+          "area": {
+            "codigo": 100,
+            "nombre": "Siniestros"
+          },
+          "subtipos": [
+            {
+              "codigo": 100,
+              "nombre": "Ejemplo"
+            }
+          ]
+        },
+      {
+          "area": {
+            "codigo": 200,
+            "nombre": "Siniestros"
+          },
+          "subtipos": [
+            {
+              "codigo": 234,
+              "nombre": "Ejemplo"
+            }
+          ]
+        }
+    ]
+}
