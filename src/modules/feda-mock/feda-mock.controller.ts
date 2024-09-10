@@ -142,7 +142,7 @@ import {
     }
 
   // Obtiene subtipos por canal
-  @Get('/subtypes-channel/:channel')
+  @Get('/subtipos/canales/:channel')
   async getSubtiposPorCanal(@Headers() headers, @Res() res: Response) {
     const typeResponse = 0;
 
