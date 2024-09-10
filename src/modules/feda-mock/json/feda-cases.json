@@ -224,7 +224,7 @@
       "usuPropietarioRol": null,
       "vencimientoSla": "2024-07-31 10:30",
       "slaTimeCounter": "11:45",
-      "slaTimerStatus": "timer_up",
+      "slaTimerStatus": "empty",
       "estado": {
         "id": 1,
         "descripcion": "Finalizado",
