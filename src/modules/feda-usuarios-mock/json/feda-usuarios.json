@@ -1,0 +1,20 @@
+{
+    "usuarios-analistas": [
+        {
+          "usuario": "J_SALAS",
+          "nombre": "Jordi Salas"
+        },
+        {
+          "usuario": "R_CORRAL",
+          "nombre": "Rolando Corral"
+        },
+          {
+          "usuario": "F_HENSELER",
+          "nombre": "Fede Henseler"
+        },
+          {
+          "usuario": "F_GONZALES",
+          "nombre": "Facundo Gonzales"
+        }
+    ]
+}
