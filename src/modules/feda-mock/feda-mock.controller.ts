@@ -141,6 +141,66 @@ import {
       }
     }
 
+    // Obtiene caso por id
+    @Get('/digitalizacion/adjuntos/caso/:caseId')
+    async getAttachmentsByCaseId(@Headers() headers, @Req() req: Request, @Res() res: Response) {
+      const typeResponse = 0;
+      const idCase = req.params.caseId;
+
+      try {
+        if (typeResponse > 0) {
+          throw 'Error interno';
+        }
+        
+        await this.lowdbService.initDatabase(
+          './src/modules/feda-mock/json/feda-attachments-cases.json',
+        );
+        
+        const caseDetail = await this.lowdbService.find(
+          { id: Number(idCase) },
+          'feda-attachment-cases',
+        );
+
+        return res.status(HttpStatus.OK).json(caseDetail);
+      } catch (error) {
+        return res.status(406).json({
+          codigoResultado: '99',
+          descripcionResultado:
+            'Error al obtener los detalles de los adjuntos',
+        });
+      }
+    }
+
+    // Obtiene caso por id
+    @Get('/digitalizacion/adjunto/:caseId')
+    async getAttachmentsDataById(@Headers() headers, @Req() req: Request, @Res() res: Response) {
+      const typeResponse = 0;
+      const idCase = req.params.caseId;
+
+      try {
+        if (typeResponse > 0) {
+          throw 'Error interno';
+        }
+        
+        await this.lowdbService.initDatabase(
+          './src/modules/feda-mock/json/feda-attachments-cases-id.json',
+        );
+        
+        const caseDetail = await this.lowdbService.find(
+          { id: Number(idCase) },
+          'feda-attachments-cases-id',
+        );
+
+        return res.status(HttpStatus.OK).json(caseDetail);
+      } catch (error) {
+        return res.status(406).json({
+          codigoResultado: '99',
+          descripcionResultado:
+            'Error al obtener el adjunto',
+        });
+      }
+    }
+
   // Obtiene subtipos por canal
   @Get('/subtipos/canales/:channel')
   async getSubtiposPorCanal(@Headers() headers, @Res() res: Response) {
