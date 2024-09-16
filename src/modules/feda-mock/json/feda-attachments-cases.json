@@ -1,24 +1,85 @@
 {
     "feda-attachment-cases": [
         {
-            "id": 10,
-            "contentType": "image/jpg",
-            "data": null,
-            "nombre": "auto.jpg",
-            "idFileExterno": 121,
-            "fechaAlta": "2024-09-11T14:21:37.360Z",
-            "digitalizado": true,
-            "causaNoDigitalizado": "string"
-          },
-           {
-            "id": 11,
-            "contentType": "application/pdf",
-            "data": null,
-            "nombre": "documento.pdf",
-            "idFileExterno": 121,
-            "fechaAlta": "2024-09-11T14:21:37.360Z",
-            "digitalizado": true,
-            "causaNoDigitalizado": "string"
-           }
+            "caseId": 321,
+            "data": [
+                {
+                    "id": 10,
+                    "contentType": "image/jpg",
+                    "data": null,
+                    "nombre": "auto.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                  },
+                   {
+                    "id": 11,
+                    "contentType": "application/pdf",
+                    "data": null,
+                    "nombre": "documento.pdf",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                   }
+
+            ]
+
+        },
+        {
+            "caseId": 322,
+            "data": [
+                {
+                    "id": 10,
+                    "contentType": "image/jpg",
+                    "data": null,
+                    "nombre": "auto.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                  },
+                   {
+                    "id": 11,
+                    "contentType": "application/pdf",
+                    "data": null,
+                    "nombre": "documento.pdf",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                   }
+
+            ]
+
+        },
+        {
+            "caseId": 323,
+            "data": [
+                {
+                    "id": 10,
+                    "contentType": "image/jpg",
+                    "data": null,
+                    "nombre": "auto.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                  },
+                   {
+                    "id": 11,
+                    "contentType": "application/pdf",
+                    "data": null,
+                    "nombre": "documento.pdf",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "string"
+                   }
+
+            ]
+
+        }
     ]
 }

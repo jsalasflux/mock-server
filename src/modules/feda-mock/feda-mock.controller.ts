@@ -157,11 +157,11 @@ import {
         );
         
         const caseDetail = await this.lowdbService.find(
-          { id: Number(idCase) },
+          { caseId: Number(idCase) },
           'feda-attachment-cases',
         );
 
-        return res.status(HttpStatus.OK).json(caseDetail);
+        return res.status(HttpStatus.OK).json(caseDetail.data);
       } catch (error) {
         return res.status(406).json({
           codigoResultado: '99',
