@@ -1,76 +1,1297 @@
 {
     "cases-detail": [
-    {
-        "id": 323,
-        "nrocaso": "ADM-131-2023",
-        "titulo": "Cobro no imputado",
-        "descripcion": "",
-        "canalCodigo": 4,
-        "formularioCodigo": 1,
-        "usuarioGenerador": {
-            "codigo": "29019",
-            "nombre": "ARISTIMUÑO ANA GISELA",
-               "rol": "ROL_LIQUIDADOR"
-        },
-        "usuarioPropietario": {
-            "codigo": "",
-            "nombre": "",
-            "rol": ""
+        {
+            "id": 320,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
             },
-        "estado": {
-            "id": 1,
-            "descripcion": "Sin Asignar"
-        }, 
-        "grupo": {
-            "codigo": 401,
-            "nombre": "UNIDADES DE NEGOCIO"
-        },
-        "area": {
-            "codigo": 400,
-            "nombre": "Produccion"
-        },
-        "motivo": {
-            "codigo": 101,
-            "nombre": "Solicitud de Emisión"
-        },
-        "tipo": {
-            "codigo": 409,
-            "nombre": "Refacturación"
-        },
-        "subtipo": {
-            "codigo": 4000,
-            "nombre": "Un subtipo"
-        },
-        "subtipo2": {
-            "codigo": 4002,
-            "nombre": "Un subtipo2"
-        },
-        "ramo": {
-            "codigo": "12",
-            "descripcion": "ACCIDENTES PERSONALES"
-        },
-        "agencia": {
-            "codigo": 3,
-            "descripcion": "BUENOS AIRES"
-        },          
-        "correoDeNotificacion": "unemail@gmail.com",
-        "creadoPorFedPat": null,
-        "fechaAlta": "2024-04-25T12:45:06.963-03:00",
-        "fechaModificacion": null,
-        "fechaVencimiento": null,
-        "sla":"HH:MM",
-        "emailContacto": "contacto@example.com",
-        "creacionAutomatica": false,
-        "destinatarios": [
-            {
-                "formato": "CC",
-                "destinatario": "destinatario1@example.com"
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
             },
-            {
-                "formato": "TO",
-                "destinatario": "destinatario1@example.com"
-            }
-        ]
-    }
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 321,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 322,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 323,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": null,
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"42:34",
+            "slaTimerStatus": "timer_up",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 324,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 325,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 326,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 327,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 328,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 370,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 372,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 373,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 461,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 462,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 463,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 464,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        },
+        {
+            "id": 465,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Cobro no imputado",
+            "descripcion": "",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_LIQUIDADOR"
+            },
+            "usuarioPropietario": {
+                "codigo": "",
+                "nombre": "",
+                "rol": ""
+                },
+            "estado": {
+                "id": 1,
+                "descripcion": "Sin Asignar"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": null,
+            "sla":"HH:MM",
+            "emailContacto": "contacto@example.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "destinatario1@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatario1@example.com"
+                }
+            ]
+        }
   ]
 }

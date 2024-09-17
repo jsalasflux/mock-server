@@ -59,15 +59,15 @@
             "data": [
                 {
                     "id": 10,
-                    "contentType": "image/jpg",
+                    "contentType": "application/pdf",
                     "data": null,
-                    "nombre": "auto.jpg",
+                    "nombre": "comprobante.pdf",
                     "idFileExterno": 121,
                     "fechaAlta": "2024-09-11T14:21:37.360Z",
                     "digitalizado": true,
                     "causaNoDigitalizado": "string"
-                  },
-                   {
+                },
+                {
                     "id": 11,
                     "contentType": "application/pdf",
                     "data": null,
@@ -76,10 +76,48 @@
                     "fechaAlta": "2024-09-11T14:21:37.360Z",
                     "digitalizado": true,
                     "causaNoDigitalizado": "string"
-                   }
-
+                },
+                {
+                    "id": 12,
+                    "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "data": null,
+                    "nombre": "excel-de-prueba.xlsx",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "El archivo de la fecha 2024-09-11 no fue digitalizada"
+                },
+                {
+                    "id": 13,
+                    "contentType": "image/jpeg",
+                    "data": null,
+                    "nombre": "concesionaria.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": true,
+                    "causaNoDigitalizado": "El archivo de la fecha 2024-09-12 no fue digitalizada"
+                },
+                {
+                    "id": 14,
+                    "contentType": "image/jpg",
+                    "data": null,
+                    "nombre": "concesionaria.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": false,
+                    "causaNoDigitalizado": "El archivo de la fecha 2024-09-12 no fue digitalizada"
+                },
+                {
+                    "id": 15,
+                    "contentType": "image/jpg",
+                    "data": null,
+                    "nombre": "concesionaria.jpg",
+                    "idFileExterno": 121,
+                    "fechaAlta": "2024-09-11T14:21:37.360Z",
+                    "digitalizado": false,
+                    "causaNoDigitalizado": "El archivo de la fecha 2024-09-15 no fue digitalizada"
+                }
             ]
-
         }
     ]
 }
