@@ -202,7 +202,7 @@ import {
     }
 
   // Obtiene subtipos por canal
-  @Get('/subtipos/canales/:channel')
+  @Get('/subtipos/canales')
   async getSubtiposPorCanal(@Headers() headers, @Res() res: Response) {
     const typeResponse = 0;
 
@@ -228,6 +228,34 @@ import {
       });
     }
   }
+
+    // Obtiene subtipos por canal
+    @Get('/subtipos2/canales')
+    async getSubtipos2PorCanal(@Headers() headers, @Res() res: Response) {
+      const typeResponse = 0;
+  
+      try {
+        if (typeResponse > 0) {
+          throw 'Error interno';
+        }
+  
+        await this.lowdbService.initDatabase(
+          './src/modules/feda-mock/json/feda-filtros.json',
+        );
+  
+        const subtipos2PorCanal = await this.lowdbService.findAll(
+          'subtipos2PorCanal',
+        );
+  
+        return res.status(HttpStatus.OK).json(subtipos2PorCanal);
+      } catch (error) {
+        return res.status(404).json({
+          codigoResultado: '99',
+          descripcionResultado:
+            'Error al obtener los subtipos 2 del canal',
+        });
+      }
+    }
 
   @Post('/new-case')
   async createNewCase(
