@@ -219,14 +219,14 @@
         {
             "id": 323,
             "nrocaso": "ADM-323-2023",
-            "titulo": "Cobro no imputado",
-            "descripcion": "",
+            "titulo": "Solicitud de autorización para traslado de la asegurada María Antonia Carrascal",
+            "descripcion": "Estimados me dirijo a ustedes para solicitar la autorización del traslado de un asegurado que se encuentra en la clínica privada Suizo Medical S.A. y debe ser llevado al Hospital Italiano para una intervención médica. Saludos.",
             "canalCodigo": 4,
             "formularioCodigo": 1,
             "usuarioGenerador": {
                 "codigo": "29019",
                 "nombre": "ARISTIMUÑO ANA GISELA",
-                   "rol": "ROL_LIQUIDADOR"
+                   "rol": "ROL_ANALISTA"
             },
             "usuarioPropietario": null,
             "estado": {
