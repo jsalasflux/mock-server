@@ -1,28 +1,99 @@
 {
-    "subtiposPorCanal": [
+  "subtiposPorCanal": [
+    {
+      "area": {
+        "codigo": 300,
+        "nombre": "ART"
+      },
+      "subtipos": [
         {
-          "area": {
-            "codigo": 100,
-            "nombre": "Siniestros"
-          },
-          "subtipos": [
-            {
-              "codigo": 100,
-              "nombre": "Ejemplo"
-            }
-          ]
+          "codigo": 5000,
+          "nombre": "Prestaciones médicas"
         },
-      {
-          "area": {
-            "codigo": 200,
-            "nombre": "Siniestros"
-          },
-          "subtipos": [
-            {
-              "codigo": 234,
-              "nombre": "Ejemplo"
-            }
-          ]
+        {
+          "codigo": 318,
+          "nombre": "Traslados"
         }
-    ]
+      ]
+    }
+  ],
+
+  "subtipos2PorCanal": [
+    {
+      "area": {
+        "codigo": 300,
+        "nombre": "ART"
+      },
+      "subtipos": [
+        {
+          "codigo": 5000,
+          "nombre": "Turnos"
+        },
+        {
+          "codigo": 5001,
+          "nombre": "Cirugías"
+        },
+        {
+          "codigo": 5002,
+          "nombre": "Alta"
+        },
+        {
+          "codigo": 5003,
+          "nombre": "Estudios"
+        },
+        {
+          "codigo": 5004,
+          "nombre": "Materiales quirúrgicos"
+        },
+        {
+          "codigo": 5005,
+          "nombre": "Médico de grupo"
+        },
+        {
+          "codigo": 5006,
+          "nombre": "Telegrama"
+        },
+        {
+          "codigo": 5007,
+          "nombre": "Dictámenes"
+        },
+        {
+          "codigo": 5008,
+          "nombre": "Óbito"
+        },
+        {
+          "codigo": 5009,
+          "nombre": "Evoluciones"
+        },
+        {
+          "codigo": 5010,
+          "nombre": "Autorizaciones"
+        },
+        {
+          "codigo": 5011,
+          "nombre": "Relevamiento de investigación"
+        },
+        {
+          "codigo": 5012,
+          "nombre": "Informativas"
+        },
+        {
+          "codigo": 5013,
+          "nombre": "Internos"
+        },
+        {
+          "codigo": 5014,
+          "nombre": "CRM General"
+        },
+        {
+          "codigo": 5015,
+          "nombre": "Otros ART"
+        },
+        {
+          "codigo": 5016,
+          "nombre": "Reintegros"
+        }
+      ]
+    }
+  ]
 }
