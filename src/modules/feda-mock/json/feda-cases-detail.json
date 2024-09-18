@@ -277,11 +277,19 @@
             "destinatarios": [
                 {
                     "formato": "CC",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "JuanPerezCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "AgustinPliniCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "FedericoLealCC@example.com"
                 },
                 {
                     "formato": "TO",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "destinatarioTo@example.com"
                 }
             ]
         },
