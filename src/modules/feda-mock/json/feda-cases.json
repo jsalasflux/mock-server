@@ -3,7 +3,7 @@
     {
       "id": 320,
       "fechaAlta": "2024-09-06",
-      "nroCaso": "CAS-14209-2024",
+      "nroCaso": "CAS-320-2024",
       "usuGeneradorNombre": "Prestador",
       "usuGeneradorRol": "Prestador",
       "titulo": "Text de prueba",
@@ -17,8 +17,8 @@
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 6,
-        "descripcion": "Asignado",
-        "nombre": "Asignado"
+        "descripcion": "Sin asignar",
+        "nombre": "Sin asignar"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
@@ -59,8 +59,8 @@
       "slaTimerStatus": "timer_up",
       "estado": {
         "id": 6,
-        "descripcion": "Asignado",
-        "nombre": "Asignado"
+        "descripcion": "Sin asignar",
+        "nombre": "Sin asignar"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
@@ -101,8 +101,8 @@
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 6,
-        "descripcion": "Asignado",
-        "nombre": "Asignado"
+        "descripcion": "Sin asignar",
+        "nombre": "Sin asignar"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
@@ -185,8 +185,8 @@
       "slaTimerStatus": "empty",
       "estado": {
         "id": 1,
-        "descripcion": "Finalizado",
-        "nombre": "Finalizado"
+        "descripcion": "Sin asignar",
+        "nombre": "Sin asignar"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
@@ -296,7 +296,7 @@
     {
       "id": 327,
       "fechaAlta": "2024-07-31",
-      "nroCaso": "CAS-144-2024",
+      "nroCaso": "CAS-327-2024",
       "usuGenerador": "Prestador",
       "usuGeneradorNombre": "Prestador",
       "usuGeneradorRol": "Prestador",
@@ -311,8 +311,8 @@
       "slaTimerStatus": "timer_up",
       "estado": {
         "id": 1,
-        "descripcion": "Sin asignar",
-        "nombre": "Sin asignar"
+        "descripcion": "Asignado",
+        "nombre": "Asignado"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
@@ -548,7 +548,7 @@
     {
       "id": 461,
       "fechaAlta": "2024-07-31",
-      "nroCaso": "CAS-144-2025",
+      "nroCaso": "CAS-461-2025",
       "usuGenerador": "Prestador",
       "usuGeneradorNombre": "Prestador",
       "usuGeneradorRol": "Prestador",
@@ -563,8 +563,8 @@
       "slaTimerStatus": "timer_down",
       "estado": {
         "id": 1,
-        "descripcion": "Asignado",
-        "nombre": "Asignado"
+        "descripcion": "Finalizado",
+        "nombre": "Finalizado"
       },
       "grupoCodigo": 2,
       "fechaModificacion": null,
