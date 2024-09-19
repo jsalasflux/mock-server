@@ -210,7 +210,7 @@
             "fechaAlta": "2024-09-18T12:45:06.963-03:00",
             "fechaModificacion": null,
             "fechaVencimiento": "2024-09-19T12:45:06.963-03:00",
-            "sla":"3:45",
+            "sla":"00:45",
             "emailContacto": "contacto@example.com",
             "creacionAutomatica": false,
             "destinatarios": [
@@ -234,6 +234,86 @@
         },
         {
             "id": 323,
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Solicitud de autorización para traslado de la asegurada María Antonia Carrascal",
+            "descripcion": "Estimados me dirijo a ustedes para solicitar la autorización del traslado de un asegurado que se encuentra en la clínica privada Suizo Medical S.A. y debe ser llevado al Hospital Italiano para una intervención médica. Saludos.",
+            "canalCodigo": 4,
+            "formularioCodigo": 1,
+            "usuarioGenerador": {
+                "codigo": "29019",
+                "nombre": "ARISTIMUÑO ANA GISELA",
+                   "rol": "ROL_ANALISTA"
+            },
+            "usuarioPropietario": {
+                "codigo": "29019",
+                "nombre": "clinica@prestadorext.com.ar",
+                "rol": "ROL_ANALISTA"
+            },
+            "estado": {
+                "id": 1,
+                "descripcion": "Asignado"
+            }, 
+            "grupo": {
+                "codigo": 401,
+                "nombre": "UNIDADES DE NEGOCIO"
+            },
+            "area": {
+                "codigo": 400,
+                "nombre": "Produccion"
+            },
+            "motivo": {
+                "codigo": 101,
+                "nombre": "Solicitud de Emisión"
+            },
+            "tipo": {
+                "codigo": 409,
+                "nombre": "Refacturación"
+            },
+            "subtipo": {
+                "codigo": 4000,
+                "nombre": "Un subtipo"
+            },
+            "subtipo2": {
+                "codigo": 4002,
+                "nombre": "Un subtipo2"
+            },
+            "ramo": {
+                "codigo": "12",
+                "descripcion": "ACCIDENTES PERSONALES"
+            },
+            "agencia": {
+                "codigo": 3,
+                "descripcion": "BUENOS AIRES"
+            },          
+            "correoDeNotificacion": "unemail@gmail.com",
+            "creadoPorFedPat": null,
+            "fechaAlta": "2024-09-17T12:45:06.963-03:00",
+            "fechaModificacion": null,
+            "fechaVencimiento": "2024-09-18T12:45:06.963-03:00",
+            "sla":"23:30",
+            "emailContacto": "fleal@fedpat.com",
+            "creacionAutomatica": false,
+            "destinatarios": [
+                {
+                    "formato": "CC",
+                    "destinatario": "JuanPerezCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "AgustinPliniCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "FedericoLealCC@example.com"
+                },
+                {
+                    "formato": "TO",
+                    "destinatario": "destinatarioTo@example.com"
+                }
+            ]
+        },
+        {
+            "id": 324,
             "nrocaso": "ADM-323-2023",
             "titulo": "Solicitud de autorización para traslado de la asegurada María Antonia Carrascal",
             "descripcion": "Estimados me dirijo a ustedes para solicitar la autorización del traslado de un asegurado que se encuentra en la clínica privada Suizo Medical S.A. y debe ser llevado al Hospital Italiano para una intervención médica. Saludos.",
@@ -309,78 +389,6 @@
                 {
                     "formato": "TO",
                     "destinatario": "destinatarioTo@example.com"
-                }
-            ]
-        },
-        {
-            "id": 324,
-            "nrocaso": "CAS-324-2023",
-            "titulo": "Cobro no imputado",
-            "descripcion": "",
-            "canalCodigo": 4,
-            "formularioCodigo": 1,
-            "usuarioGenerador": {
-                "codigo": "29019",
-                "nombre": "ARISTIMUÑO ANA GISELA",
-                   "rol": "ROL_LIQUIDADOR"
-            },
-            "usuarioPropietario": {
-                "codigo": "",
-                "nombre": "",
-                "rol": ""
-                },
-            "estado": {
-                "id": 1,
-                "descripcion": "Sin asignar"
-            }, 
-            "grupo": {
-                "codigo": 401,
-                "nombre": "UNIDADES DE NEGOCIO"
-            },
-            "area": {
-                "codigo": 400,
-                "nombre": "Produccion"
-            },
-            "motivo": {
-                "codigo": 101,
-                "nombre": "Solicitud de Emisión"
-            },
-            "tipo": {
-                "codigo": 409,
-                "nombre": "Refacturación"
-            },
-            "subtipo": {
-                "codigo": 4000,
-                "nombre": "Un subtipo"
-            },
-            "subtipo2": {
-                "codigo": 4002,
-                "nombre": "Un subtipo2"
-            },
-            "ramo": {
-                "codigo": "12",
-                "descripcion": "ACCIDENTES PERSONALES"
-            },
-            "agencia": {
-                "codigo": 3,
-                "descripcion": "BUENOS AIRES"
-            },          
-            "correoDeNotificacion": "unemail@gmail.com",
-            "creadoPorFedPat": null,
-            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
-            "fechaModificacion": null,
-            "fechaVencimiento": null,
-            "sla":"HH:MM",
-            "emailContacto": "contacto@example.com",
-            "creacionAutomatica": false,
-            "destinatarios": [
-                {
-                    "formato": "CC",
-                    "destinatario": "destinatario1@example.com"
-                },
-                {
-                    "formato": "TO",
-                    "destinatario": "destinatario1@example.com"
                 }
             ]
         },
