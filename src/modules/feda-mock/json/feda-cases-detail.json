@@ -74,24 +74,24 @@
         },
         {
             "id": 321,
-            "nrocaso": "CAS-323-2023",
-            "titulo": "Cobro no imputado",
-            "descripcion": "",
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Solicitud de autorización para traslado de la asegurada María Antonia Carrascal",
+            "descripcion": "Estimados me dirijo a ustedes para solicitar la autorización del traslado de un asegurado que se encuentra en la clínica privada Suizo Medical S.A. y debe ser llevado al Hospital Italiano para una intervención médica. Saludos.",
             "canalCodigo": 4,
             "formularioCodigo": 1,
             "usuarioGenerador": {
                 "codigo": "29019",
                 "nombre": "ARISTIMUÑO ANA GISELA",
-                   "rol": "ROL_LIQUIDADOR"
+                   "rol": "ROL_ANALISTA"
             },
             "usuarioPropietario": {
-                "codigo": "",
-                "nombre": "",
-                "rol": ""
-                },
+                "codigo": "29019",
+                "nombre": "Federico Leal",
+                "rol": "ROL_ANALISTA"
+            },
             "estado": {
                 "id": 1,
-                "descripcion": "Sin asignar"
+                "descripcion": "Finalizado"
             }, 
             "grupo": {
                 "codigo": 401,
@@ -127,40 +127,48 @@
             },          
             "correoDeNotificacion": "unemail@gmail.com",
             "creadoPorFedPat": null,
-            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaAlta": "2024-09-18T12:45:06.963-03:00",
             "fechaModificacion": null,
-            "fechaVencimiento": null,
-            "sla":"HH:MM",
+            "fechaVencimiento": "2024-09-19T12:45:06.963-03:00",
+            "sla":"3:45",
             "emailContacto": "contacto@example.com",
             "creacionAutomatica": false,
             "destinatarios": [
                 {
                     "formato": "CC",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "JuanPerezCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "AgustinPliniCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "FedericoLealCC@example.com"
                 },
                 {
                     "formato": "TO",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "destinatarioTo@example.com"
                 }
             ]
         },
         {
             "id": 322,
-            "nrocaso": "CAS-323-2023",
-            "titulo": "Cobro no imputado",
-            "descripcion": "",
+            "nrocaso": "ADM-323-2023",
+            "titulo": "Solicitud de autorización para traslado de la asegurada María Antonia Carrascal",
+            "descripcion": "Estimados me dirijo a ustedes para solicitar la autorización del traslado de un asegurado que se encuentra en la clínica privada Suizo Medical S.A. y debe ser llevado al Hospital Italiano para una intervención médica. Saludos.",
             "canalCodigo": 4,
             "formularioCodigo": 1,
             "usuarioGenerador": {
                 "codigo": "29019",
                 "nombre": "ARISTIMUÑO ANA GISELA",
-                   "rol": "ROL_LIQUIDADOR"
+                   "rol": "ROL_ANALISTA"
             },
             "usuarioPropietario": {
-                "codigo": "",
-                "nombre": "",
-                "rol": ""
-                },
+                "codigo": "29019",
+                "nombre": "Federico Leal",
+                "rol": "ROL_ANALISTA"
+            },
             "estado": {
                 "id": 1,
                 "descripcion": "Sin asignar"
@@ -199,20 +207,28 @@
             },          
             "correoDeNotificacion": "unemail@gmail.com",
             "creadoPorFedPat": null,
-            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaAlta": "2024-09-18T12:45:06.963-03:00",
             "fechaModificacion": null,
-            "fechaVencimiento": null,
-            "sla":"HH:MM",
+            "fechaVencimiento": "2024-09-19T12:45:06.963-03:00",
+            "sla":"3:45",
             "emailContacto": "contacto@example.com",
             "creacionAutomatica": false,
             "destinatarios": [
                 {
                     "formato": "CC",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "JuanPerezCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "AgustinPliniCC@example.com"
+                },
+                {
+                    "formato": "CC",
+                    "destinatario": "FedericoLealCC@example.com"
                 },
                 {
                     "formato": "TO",
-                    "destinatario": "destinatario1@example.com"
+                    "destinatario": "destinatarioTo@example.com"
                 }
             ]
         },
@@ -228,10 +244,14 @@
                 "nombre": "ARISTIMUÑO ANA GISELA",
                    "rol": "ROL_ANALISTA"
             },
-            "usuarioPropietario": null,
+            "usuarioPropietario": {
+                "codigo": "29019",
+                "nombre": "clinica@prestadorext.com.ar",
+                "rol": "EXTERNO"
+            },
             "estado": {
                 "id": 1,
-                "descripcion": "Sin asignar"
+                "descripcion": "Asignado"
             }, 
             "grupo": {
                 "codigo": 401,
@@ -267,11 +287,10 @@
             },          
             "correoDeNotificacion": "unemail@gmail.com",
             "creadoPorFedPat": null,
-            "fechaAlta": "2024-04-25T12:45:06.963-03:00",
+            "fechaAlta": "2024-09-17T12:45:06.963-03:00",
             "fechaModificacion": null,
-            "fechaVencimiento": null,
+            "fechaVencimiento": "2024-09-18T12:45:06.963-03:00",
             "sla":"42:34",
-            "slaTimerStatus": "timer_up",
             "emailContacto": "contacto@example.com",
             "creacionAutomatica": false,
             "destinatarios": [
