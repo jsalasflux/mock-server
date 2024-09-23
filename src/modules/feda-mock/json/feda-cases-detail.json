@@ -246,7 +246,7 @@
             },
             "usuarioPropietario": {
                 "codigo": "29019",
-                "nombre": "clinica@prestadorext.com.ar",
+                "nombre": "Agustin Plini",
                 "rol": "ROL_ANALISTA"
             },
             "estado": {
@@ -372,7 +372,7 @@
             "fechaVencimiento": "2024-09-18T12:45:06.963-03:00",
             "sla":"42:34",
             "emailContacto": "contacto@example.com",
-            "creacionAutomatica": false,
+            "creacionAutomatica": true,
             "destinatarios": [
                 {
                     "formato": "CC",
