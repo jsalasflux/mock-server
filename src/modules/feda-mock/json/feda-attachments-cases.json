@@ -99,22 +99,22 @@
                 },
                 {
                     "id": 14,
-                    "contentType": "image/jpg",
+                    "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "data": null,
-                    "nombre": "concesionaria.jpg",
+                    "nombre": "prueba-docx.docx",
                     "idFileExterno": 121,
                     "fechaAlta": "2024-09-11T14:21:37.360Z",
-                    "digitalizado": false,
+                    "digitalizado": true,
                     "causaNoDigitalizado": "El archivo de la fecha 2024-09-12 no fue digitalizada"
                 },
                 {
                     "id": 15,
-                    "contentType": "image/jpg",
+                    "contentType": "application/msword",
                     "data": null,
-                    "nombre": "concesionaria.jpg",
+                    "nombre": "prueba-doc.doc",
                     "idFileExterno": 121,
                     "fechaAlta": "2024-09-11T14:21:37.360Z",
-                    "digitalizado": false,
+                    "digitalizado": true,
                     "causaNoDigitalizado": "El archivo de la fecha 2024-09-15 no fue digitalizada"
                 }
             ]

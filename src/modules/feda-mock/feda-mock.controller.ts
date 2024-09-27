@@ -112,7 +112,7 @@ import {
     }
     
     // Obtiene caso por id
-    @Get('/case-detail/:caseId')
+    @Get('/no-conocidos/casos/:caseId')
     async getCaseDetailById(@Headers() headers, @Req() req: Request, @Res() res: Response) {
       const typeResponse = 0;
       const idCase = req.params.caseId;
